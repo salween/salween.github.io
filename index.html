@@ -1,0 +1,1612 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>AMS Mobile APIs</title>
+		<meta name="description" content="The APIs are services of AMS server that provide for a mobile application.
+
+">
+		<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
+		<link href='//fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+		<style>
+			body {
+				font-family: 'Open Sans', sans-serif;
+			}
+
+			tt, pre, code {
+				font-family: Consolas, "Liberation Mono", Courier, monospace;
+				background-color: transparent !important;
+			}
+
+			pre.prettyprint {
+				border: 0px !important;
+				background-color: #fff;
+			}
+
+			.bg-default {
+				background-color: #F8F8F8;
+			}
+
+			.snippet {
+				list-style: none;
+				display: none;
+			}
+
+			.nav-rg {
+				width: 262.5px;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="page-header">
+						<h1>AMS Mobile APIs</h1>
+						<h2 class="lead"><small><p>The APIs are services of AMS server that provide for a mobile application.</p>
+</small></h2>
+					</div>
+				</div>
+
+				<div class="col-md-3">
+					
+<ul class="nav nav-pills nav-stacked nav-rg affix" id="group-tab">
+	
+		<li><a href="#" data-toggle="tab"><strong></strong></a></li>
+	
+</ul>
+
+				</div>
+
+				<div class="col-md-9">
+					<div class="tab-content">
+						
+
+	<div class="tab-pane" id="">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h2 id=""></h2>
+			</div>
+			<div class="panel-body">
+				<p class="lead"><small></small></p>
+				
+
+	
+	
+
+	
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<span class="btn btn-primary">GET</span>
+			<code>/MobileApi/Member{?latestModifiedDate}</code>
+		</div>
+
+		<div class="panel-body">
+			<p>If you need to get members, you can input datetime into the parameter with the format:
+YYYY-MM-DDTHH:mm:ss.ss . The result is members ware created or updated after the time.
+If you need get all members, you can input null into parameter.</p>
+
+		</div>
+
+		<ul class="list-group">
+			
+			
+	
+		
+	
+
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>200</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">[
+  {
+    &#34;Id&#34;: 160,
+    &#34;MemberId&#34;: &#34;a9bd8357-dce4-4ca0-a8dc-293bb87b3ed0&#34;,
+    &#34;MemberName&#34;: &#34;Santos  Andalee&#34;,
+    &#34;MemberFirstName&#34;: &#34;Santos&#34;,
+    &#34;MemberLastName&#34;: &#34;Andalee&#34;,
+    &#34;RoleId&#34;: 0,
+    &#34;Position&#34;: null,
+    &#34;Email&#34;: null,
+    &#34;Website&#34;: null,
+    &#34;PhoneNumber&#34;: null,
+    &#34;FaxNumber&#34;: null,
+    &#34;License&#34;: null,
+    &#34;IsNewMember&#34;: false,
+    &#34;ExpirationDate&#34;: null,
+    &#34;ProfileImageUrl&#34;: &#34;&#34;,
+    &#34;BuyerGuideCategory&#34;: &#34;Non-Premium&#34;,
+    &#34;AdvertiseImageUrl&#34;: &#34;&#34;,
+    &#34;AlternativeImageUrl&#34;: &#34;&#34;,
+    &#34;AlternativeImageLinkUrl&#34;: null,
+    &#34;VideoUrl&#34;: null,
+    &#34;VideoLinkUrl&#34;: null,
+    &#34;FacebookLink&#34;: null,
+    &#34;TwitterLink&#34;: null,
+    &#34;GoogleLink&#34;: null,
+    &#34;LinkedinLink&#34;: null,
+    &#34;YoutubeLink&#34;: null,
+    &#34;PinterestLink&#34;: null,
+    &#34;PremiumPlacementNo&#34;: 0,
+    &#34;Company&#34;: {
+      &#34;CompanyName&#34;: &#34;&#34;,
+      &#34;CompanyLogoUrl&#34;: &#34;&#34;,
+      &#34;IsCompany&#34;: false
+    },
+    &#34;MemberType&#34;: {
+      &#34;MemberTypeName&#34;: &#34;Staff Admin&#34;,
+      &#34;IsNonMember&#34;: true
+    },
+    &#34;MemberGroups&#34;: [],
+    &#34;DeviceTokens&#34;: null,
+    &#34;MemberGroupRole&#34;: null,
+    &#34;Description&#34;: &#34;&#34;,
+    &#34;Latitude&#34;: 0.0,
+    &#34;Longitude&#34;: 0.0,
+    &#34;Address&#34;: {
+      &#34;Location&#34;: &#34;No Contact&#34;,
+      &#34;AddressLineOne&#34;: null,
+      &#34;AddressLineTwo&#34;: null,
+      &#34;City&#34;: null,
+      &#34;StateProvinceRegion&#34;: null,
+      &#34;StateProvinceRegionShort&#34;: null,
+      &#34;ZipPostalCode&#34;: null,
+      &#34;Country&#34;: null,
+      &#34;CountryShort&#34;: null,
+      &#34;LastChanged&#34;: null,
+      &#34;LastLookup&#34;: null,
+      &#34;Dirty&#34;: false,
+      &#34;Name&#34;: &#34;MainAddress&#34;,
+      &#34;DisplayName&#34;: &#34;Address&#34;,
+      &#34;PartFieldDefinition&#34;: {
+        &#34;Name&#34;: &#34;MainAddress&#34;,
+        &#34;DisplayName&#34;: &#34;Address&#34;,
+        &#34;FieldDefinition&#34;: {
+          &#34;Name&#34;: &#34;AddressField&#34;
+        },
+        &#34;Settings&#34;: {
+          &#34;DisplayName&#34;: &#34;Address&#34;,
+          &#34;AddressFieldSettings.Required&#34;: &#34;False&#34;,
+          &#34;FieldIndexing.Included&#34;: &#34;True&#34;
+        }
+      },
+      &#34;FieldDefinition&#34;: {
+        &#34;Name&#34;: &#34;AddressField&#34;
+      },
+      &#34;Storage&#34;: {}
+    },
+    &#34;TermIds&#34;: [],
+    &#34;PremiumPlacements&#34;: []
+  }
+]
+</pre>
+			
+		</li>
+	
+
+	
+
+		</ul>
+	</div>
+	
+
+	
+	
+
+	
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<span class="btn btn-primary">GET</span>
+			<code>/MobileApi/eventdetail{?latestModifiedDate}</code>
+		</div>
+
+		<div class="panel-body">
+			<p>If you need to get events, you can input time into the parameter with the format:
+YYYY-MM-DDTHH:mm:ss.ss . The result is events ware created or updated after the time.
+If you need get all events, you can input null into parameter.</p>
+
+		</div>
+
+		<ul class="list-group">
+			
+			
+	
+		
+	
+
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>200</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">[
+  {
+    &#34;Id&#34;: 8318,
+    &#34;Title&#34;: &#34;EPA Certified Lead-Safety for Renovation, Repair, and Painting INITIAL Training�&#34;,
+    &#34;IconPath&#34;: &#34;&#34;,
+    &#34;CategoryName&#34;: &#34;Education Event&#34;,
+    &#34;StartDateTime&#34;: &#34;2016-01-20T08:00:00Z&#34;,
+    &#34;EndDateTime&#34;: &#34;2016-01-20T17:00:00Z&#34;,
+    &#34;Detail&#34;: &#34;&#34;,
+    &#34;Latitude&#34;: 0.0,
+    &#34;Longitude&#34;: 0.0,
+    &#34;Address&#34;: {
+      &#34;AddressLineOne&#34;: &#34;5813 East 4th Ave., #201&#34;,
+      &#34;AddressLineTwo&#34;: null,
+      &#34;Country&#34;: null,
+      &#34;City&#34;: &#34;Spokane Valley&#34;,
+      &#34;Location&#34;: &#34;&#34;,
+      &#34;StateProvinceRegion&#34;: &#34;WA&#34;,
+      &#34;ZipPostalCode&#34;: &#34;99212&#34;
+    },
+    &#34;PrivacyFilterEnum&#34;: 0,
+    &#34;PrivacyFilterName&#34;: &#34;Private&#34;,
+    &#34;RegisteredUsers&#34;: [],
+    &#34;Comments&#34;: [],
+    &#34;Sponsors&#34;: [],
+    &#34;Agendas&#34;: [],
+    &#34;AttachmentFiles&#34;: []
+  }
+]
+</pre>
+			
+		</li>
+	
+
+	
+
+		</ul>
+	</div>
+	
+
+	
+	
+
+	
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<span class="btn btn-primary">GET</span>
+			<code>/MobileApi/FastEvent{?type}</code>
+		</div>
+
+		<div class="panel-body">
+			<p>Get event ids with the type. Input &ldquo;PublicOrSponsored&rdquo;
+to get public events and &ldquo;Private&rdquo; for private events.</p>
+
+		</div>
+
+		<ul class="list-group">
+			
+			
+	
+		
+	
+
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>200</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">[
+  1224,
+  4412
+]
+</pre>
+			
+		</li>
+	
+
+	
+
+		</ul>
+	</div>
+	
+
+	
+	
+
+	
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<span class="btn btn-primary">GET</span>
+			<code>/MobileApi/ConsumerMarketplaceCategory</code>
+		</div>
+
+		<div class="panel-body">
+			<p>Get consumer marketplace categories with inside each a category
+has member ids and sponsers data.</p>
+
+		</div>
+
+		<ul class="list-group">
+			
+			
+	
+		
+	
+
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>200</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">[
+    {
+        &#34;Id&#34;: 3248,
+        &#34;Name&#34;: &#34;Landscape &amp; Outdoor Living&#34;,
+        &#34;ImageUrl&#34;: &#34;https://spokaneprodcloud06.blob.core.windows.net:443/media/Default/Icons/ConsumerMarketplaceIcons/3248/LANDSCAPE_OUTDOOR_LIVING.png&#34;,
+        &#34;BuyerGuideCategories&#34;: [
+             {
+                &#34;Id&#34;: 3294,
+                &#34;Name&#34;: &#34;Awnings&#34;,
+                &#34;Members&#34;: [],
+                &#34;MemberIds&#34;: [
+                  11784,
+                  11835,
+                  11839,
+                  11903,
+                  13279
+                ],
+                &#34;FeatureMembers&#34;: [],
+                &#34;SubCategories&#34;: []
+            }
+        ]
+    }    
+]
+</pre>
+			
+		</li>
+	
+
+	
+
+		</ul>
+	</div>
+	
+
+	
+	
+
+	
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<span class="btn btn-primary">GET</span>
+			<code>/MobileApi/BuyerGuide</code>
+		</div>
+
+		<div class="panel-body">
+			<p>Get buyerguide categories with inside each a category
+has member ids and sponsers data.</p>
+
+		</div>
+
+		<ul class="list-group">
+			
+			
+	
+		
+	
+
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>200</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">[
+    {
+        &#34;Id&#34;: 11918,
+        &#34;Name&#34;: &#34;Accounting/Payroll Services&#34;,
+        &#34;Members&#34;: [],
+        &#34;MemberIds&#34;: [
+          11916,
+          12824
+        ],
+        &#34;FeatureMembers&#34;: [],
+        &#34;SubCategories&#34;: []
+      }
+]
+</pre>
+			
+		</li>
+	
+
+	
+
+		</ul>
+	</div>
+	
+
+	
+	
+
+	
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<span class="btn btn-primary">GET</span>
+			<code>/MobileApi/BuyerGuideBanner</code>
+		</div>
+
+		<div class="panel-body">
+			
+		</div>
+
+		<ul class="list-group">
+			
+			
+	
+		
+	
+
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>200</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">[
+  {
+    &#34;Id&#34;: 4,
+    &#34;Name&#34;: &#34;E&amp;M&#34;,
+    &#34;Zone&#34;: &#34;BeforeMain&#34;,
+    &#34;Url&#34;: &#34;http://www.emmanagementllc.com/&#34;,
+    &#34;ImageUrl&#34;: &#34;https://spokaneprodcloud06.blob.core.windows.net:443/media/Default/RotateAds/8603/E&amp;M123-03_345639.png&#34;
+  }
+]
+</pre>
+			
+		</li>
+	
+
+	
+
+		</ul>
+	</div>
+	
+
+	
+	
+
+	
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<span class="btn btn-primary">GET</span>
+			<code>/MobileApi/BuyerGuideAds</code>
+		</div>
+
+		<div class="panel-body">
+			
+		</div>
+
+		<ul class="list-group">
+			
+			
+	
+		
+	
+
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>200</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">[
+  {
+    &#34;Id&#34;: 117,
+    &#34;Path&#34;: &#34;https://spokaneprodcloud06.blob.core.windows.net:443/media/Default/Icons/hAdsImage/117/wooden.png&#34;,
+    &#34;Link&#34;: &#34;&#34;
+  }
+]
+</pre>
+			
+		</li>
+	
+
+	
+
+		</ul>
+	</div>
+	
+
+	
+	
+
+	
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<span class="btn btn-primary">GET</span>
+			<code>/MobileApi/PremiumSponsor</code>
+		</div>
+
+		<div class="panel-body">
+			<p>The system will return member ids. if you need member detail,
+you have to map it with the data from  members service.</p>
+
+		</div>
+
+		<ul class="list-group">
+			
+			
+	
+		
+	
+
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>200</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">[
+  3214,
+  3212,
+  4231
+]
+</pre>
+			
+		</li>
+	
+
+	
+
+		</ul>
+	</div>
+	
+
+	
+	
+
+	
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<span class="btn btn-primary">GET</span>
+			<code>/MobileApi/BreakingNews</code>
+		</div>
+
+		<div class="panel-body">
+			<p>The breaking news have 2 type private and public. You can know the type by IsPrivate attribute.</p>
+
+		</div>
+
+		<ul class="list-group">
+			
+			
+	
+		
+	
+
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>200</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">[
+  {
+    &#34;Id&#34;: 3033,
+    &#34;Message&#34;: &#34;This is important news from your local community!&#34;,
+    &#34;IsPrivate&#34;: false,
+    &#34;Url&#34;: &#34;&#34;,
+    &#34;DateCreated&#34;: &#34;2/2/2016 7:26:10 AM&#34;,
+    &#34;DatePublished&#34;: &#34;2/2/2016 7:26:17 AM&#34;,
+    &#34;DateModified&#34;: &#34;2/2/2016 7:26:17 AM&#34;
+  }
+]
+</pre>
+			
+		</li>
+	
+
+	
+
+		</ul>
+	</div>
+	
+
+	
+	
+
+	
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<span class="btn btn-primary">GET</span>
+			<code>/MobileApi/SponsorImage</code>
+		</div>
+
+		<div class="panel-body">
+			
+		</div>
+
+		<ul class="list-group">
+			
+			
+	
+		
+	
+
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>200</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">[
+  {
+    &#34;Id&#34;: 2948,
+    &#34;IsStartUp&#34;: true,
+    &#34;IsMainView&#34;: false,
+    &#34;IsHeader&#34;: false,
+    &#34;IsTop&#34;: false,
+    &#34;IsBottom&#34;: false,
+    &#34;Name&#34;: &#34;E&amp;M Consulting, Inc.&#34;,
+    &#34;ImageUrl&#34;: &#34;https://spokane-test.salween.com:443/Media/Default/Icons/SponsorImages/2948/PopupStartUp_6153_StartUp_EMAds1.png&#34;,
+    &#34;Url&#34;: &#34;http://www.emconsultinginc.com/&#34;
+  }
+]
+</pre>
+			
+		</li>
+	
+
+	
+
+		</ul>
+	</div>
+	
+
+	
+	
+
+	
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<span class="btn btn-primary">GET</span>
+			<code>/MobileApi/CouponCategory</code>
+		</div>
+
+		<div class="panel-body">
+			
+		</div>
+
+		<ul class="list-group">
+			
+			
+	
+		
+	
+
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>200</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">[
+  {
+    &#34;Id&#34;: 2925,
+    &#34;Name&#34;: &#34;Auto&#34;,
+    &#34;ImageUrl&#34;: &#34;https://spokane-test.salween.com:443/Media/Default/Icons/CouponCategoryImage/2925/Niessen&#39;s%20Auto%20Repair%20Alternative.png&#34;,
+    &#34;CoverImageUrl&#34;: &#34;https://spokane-test.salween.com:443/Media/Default/Icons/CouponCategoryCover/2925/Road%20to%20the%20Mountain-92017914.png&#34;
+  }
+]
+</pre>
+			
+		</li>
+	
+
+	
+
+		</ul>
+	</div>
+	
+
+	
+	
+
+	
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<span class="btn btn-primary">GET</span>
+			<code>/MobileApi/Coupon{?uuid}</code>
+		</div>
+
+		<div class="panel-body">
+			
+		</div>
+
+		<ul class="list-group">
+			
+			
+	
+		
+	
+
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>200</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">[
+  {
+    &#34;Id&#34;: 2962,
+    &#34;ImageUrl&#34;: &#34;https://spokane-test.salween.com:443/Media/Default/Icons/CounponImages/2962/Niessen&#39;s%20Auto%20Repair%20Company.png&#34;,
+    &#34;Name&#34;: &#34;Niessen&#39;s Auto Repair&#34;,
+    &#34;Description&#34;: &#34;Oil Change 10% off&#34;,
+    &#34;StartDate&#34;: &#34;1/25/2016 12:00:00 AM&#34;,
+    &#34;ExpirationDate&#34;: &#34;3/26/2019 12:00:00 AM&#34;,
+    &#34;CategoryId&#34;: 2925,
+    &#34;IsUnlimited&#34;: false,
+    &#34;IsHottestDeal&#34;: true,
+    &#34;Usage&#34;: 1,
+    &#34;MaximumUsage&#34;: 3,
+    &#34;CreatedDate&#34;: &#34;1/25/2016 2:06:43 PM&#34;,
+    &#34;PublishedDate&#34;: &#34;1/26/2016 2:48:16 AM&#34;,
+    &#34;ModifiedDate&#34;: &#34;1/26/2016 2:48:16 AM&#34;
+  }
+]
+</pre>
+			
+		</li>
+	
+
+	
+
+		</ul>
+	</div>
+	
+
+	
+	
+
+	
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<span class="btn btn-success">POST</span>
+			<code>/MobileApi/Token</code>
+		</div>
+
+		<div class="panel-body">
+			
+		</div>
+
+		<ul class="list-group">
+			
+			
+	
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Requests</strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&gt; Content-Type: application/json</code><br>
+			
+			
+				<pre class="prettyprint">    {
+        &#34;params&#34;: &#34;&#34;
+    }
+</pre>
+			
+		</li>
+	
+
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>200</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">    &#34;MemberId=0,UserId=0,MemberName=&#34;
+</pre>
+			
+		</li>
+	
+
+	
+
+		</ul>
+	</div>
+	
+
+	
+	
+
+	
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<span class="btn btn-primary">GET</span>
+			<code>/MobileApi/Staff{?latestModifiedDate}</code>
+		</div>
+
+		<div class="panel-body">
+			<p>The service will return member ids. if you need member detail,
+you have to map it with the data from  members service.</p>
+
+		</div>
+
+		<ul class="list-group">
+			
+			
+	
+		
+	
+
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>200</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">[
+  1234,
+  5678,
+]
+</pre>
+			
+		</li>
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>401</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">{
+    &#34;Message&#34;: &#34;Authorization has been denied for this request.&#34;
+}
+</pre>
+			
+		</li>
+	
+
+	
+
+		</ul>
+	</div>
+	
+
+	
+	
+
+	
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<span class="btn btn-primary">GET</span>
+			<code>/MobileApi/BoardOfDirector{?latestModifiedDate}</code>
+		</div>
+
+		<div class="panel-body">
+			<p>The service will return member ids. if you need member detail,
+you have to map it with the data from  members service.</p>
+
+		</div>
+
+		<ul class="list-group">
+			
+			
+	
+		
+	
+
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>200</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">[
+  1234,
+  5678,
+]
+</pre>
+			
+		</li>
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>401</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">{
+    &#34;Message&#34;: &#34;Authorization has been denied for this request.&#34;
+}
+</pre>
+			
+		</li>
+	
+
+	
+
+		</ul>
+	</div>
+	
+
+	
+	
+
+	
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<span class="btn btn-primary">GET</span>
+			<code>/MobileApi/FastCommittee{?latestModifiedDate}</code>
+		</div>
+
+		<div class="panel-body">
+			<p>Return data consist of basic info, memberIds and eventIds of the committee.</p>
+
+		</div>
+
+		<ul class="list-group">
+			
+			
+	
+		
+	
+
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>200</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">[
+  {
+    &#34;CommitteeTypeName&#34;: &#34;Board of Directors&#34;,
+    &#34;Committees&#34;: [
+      {
+        &#34;CommitteeId&#34;: 113,
+        &#34;CommitteeName&#34;: &#34;Board of Directors&#34;,
+        &#34;CommitteeTypeId&#34;: 110,
+        &#34;CommitteeTypeName&#34;: &#34;Board of Directors&#34;,
+        &#34;IsPublic&#34;: true,
+        &#34;ImageUrl&#34;: &#34;&#34;,
+        &#34;CommitteeMembers&#34;: [],
+        &#34;MemberIds&#34;: [
+          211,
+          2853,
+          2855,
+          2857,
+          2859,
+          2861,
+          2863,
+          2865,
+          2872
+        ],
+        &#34;EventIds&#34;: []
+      }
+    ]
+  }
+]
+</pre>
+			
+		</li>
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>401</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">{
+    &#34;Message&#34;: &#34;Authorization has been denied for this request.&#34;
+}
+</pre>
+			
+		</li>
+	
+
+	
+
+		</ul>
+	</div>
+	
+
+	
+	
+
+	
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<span class="btn btn-primary">GET</span>
+			<code>/MobileApi/governmentlisting</code>
+		</div>
+
+		<div class="panel-body">
+			
+		</div>
+
+		<ul class="list-group">
+			
+			
+	
+		
+	
+
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>200</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">[
+    {
+        &#34;LocalStateNational&#34;: &#34;Local&#34;,
+        &#34;Level&#34;: &#34;None&#34;,
+        &#34;GovernmentListingWebsite&#34;: null,
+        &#34;GovernmentListings&#34;: []
+    }
+]
+</pre>
+			
+		</li>
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>401</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">{
+    &#34;Message&#34;: &#34;Authorization has been denied for this request.&#34;
+}
+</pre>
+			
+		</li>
+	
+
+	
+
+		</ul>
+	</div>
+	
+
+	
+	
+
+	
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<span class="btn btn-primary">GET</span>
+			<code>/MobileApi/governmentmessage</code>
+		</div>
+
+		<div class="panel-body">
+			
+		</div>
+
+		<ul class="list-group">
+			
+			
+	
+		
+	
+
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>200</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">[
+    {
+        &#34;Id&#34;: 2929,
+        &#34;To&#34;: &#34;Barack.Obama@whitehouse.gov&#34;,
+        &#34;Cc&#34;: &#34;&#34;,
+        &#34;Bcc&#34;: &#34;&#34;,
+        &#34;Subject&#34;: &#34;Supporting my right to vote!&#34;,
+        &#34;Body&#34;: &#34;Please send this email in support of our right to vote!&#34;,
+        &#34;DateCreated&#34;: &#34;1/25/2016 9:00:09 AM&#34;,
+        &#34;DatePublished&#34;: &#34;1/25/2016 9:00:09 AM&#34;,
+        &#34;DateModified&#34;: &#34;1/25/2016 9:00:09 AM&#34;
+      }
+]
+</pre>
+			
+		</li>
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>401</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">{
+    &#34;Message&#34;: &#34;Authorization has been denied for this request.&#34;
+}
+</pre>
+			
+		</li>
+	
+
+	
+
+		</ul>
+	</div>
+	
+
+	
+	
+
+	
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<span class="btn btn-primary">GET</span>
+			<code>/MobileApi/Rss{?path}</code>
+		</div>
+
+		<div class="panel-body">
+			
+		</div>
+
+		<ul class="list-group">
+			
+			
+	
+		
+	
+
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>200</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">[
+  {
+    &#34;Id&#34;: 2927,
+    &#34;Name&#34;: &#34;The White House&#34;,
+    &#34;Url&#34;: &#34;https://www.whitehouse.gov/feed/blog/white-house&#34;
+  }
+]
+</pre>
+			
+		</li>
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>401</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">{
+    &#34;Message&#34;: &#34;Authorization has been denied for this request.&#34;
+}
+</pre>
+			
+		</li>
+	
+
+	
+
+		</ul>
+	</div>
+	
+
+	
+	
+
+	
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<span class="btn btn-primary">GET</span>
+			<code>/MobileApi/Blog{?latestModifiedDate}</code>
+		</div>
+
+		<div class="panel-body">
+			
+		</div>
+
+		<ul class="list-group">
+			
+			
+	
+		
+	
+
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>200</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">[
+  {
+    &#34;Id&#34;: 145,
+    &#34;Name&#34;: null,
+    &#34;Permalink&#34;: &#34;https://www.whitehouse.gov/feed/blog/white-house&#34;,
+    &#34;Description&#34;: null,
+    &#34;DateCreated&#34;: null,
+    &#34;DatePublished&#34;: null,
+    &#34;DateModified&#34;: null,
+    &#34;PostCount&#34;: 0,
+    &#34;PostBy&#34;: null,
+    &#34;IsRss&#34;: true,
+    &#34;Path&#34;: &#34;main&#34;,
+    &#34;BlogPosts&#34;: []
+  }
+]
+</pre>
+			
+		</li>
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>401</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">{
+    &#34;Message&#34;: &#34;Authorization has been denied for this request.&#34;
+}
+</pre>
+			
+		</li>
+	
+
+	
+
+		</ul>
+	</div>
+	
+
+	
+	
+
+	
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<span class="btn btn-primary">GET</span>
+			<code>/MobileApi/Twitter{?path}</code>
+		</div>
+
+		<div class="panel-body">
+			
+		</div>
+
+		<ul class="list-group">
+			
+			
+	
+		
+	
+
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>200</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">[
+    {
+        &#34;Id&#34;: &#34;30313925&#34;,
+        &#34;Name&#34;: &#34;The White House&#34;,
+        &#34;ScreenName&#34;: &#34;WhiteHouse&#34;,
+        &#34;Description&#34;: &#34;&#34;,
+        &#34;ProfileImageUrl&#34;: &#34;http://pbs.twimg.com/profile_images/686775860012150784/YI4gl12-.png&#34;,
+        &#34;Location&#34;: &#34;Washington, DC&#34;,
+        &#34;FavouritesCount&#34;: 0,
+        &#34;FollowersCount&#34;: 9495095,
+        &#34;FriendsCount&#34;: 222,
+        &#34;StatusesCount&#34;: 23855,
+        &#34;CreatedDate&#34;: &#34;2009-04-10T21:10:30Z&#34;,
+        &#34;Tweets&#34;: []
+    }
+]
+</pre>
+			
+		</li>
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>401</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">{
+    &#34;Message&#34;: &#34;Authorization has been denied for this request.&#34;
+}
+</pre>
+			
+		</li>
+	
+
+	
+
+		</ul>
+	</div>
+	
+
+	
+	
+
+	
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<span class="btn btn-primary">GET</span>
+			<code>/MobileAPIAction/ContentChangeEvent/GetMemberDeletions{?lastModifiedDate}</code>
+		</div>
+
+		<div class="panel-body">
+			
+		</div>
+
+		<ul class="list-group">
+			
+			
+	
+		
+	
+
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>200</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">[
+    {
+        &#34;Id&#34;: 1,
+        &#34;ChangedContentId&#34;: 11827,
+        &#34;ChangedContentType&#34;: &#34;AssociationMember&#34;,
+        &#34;ChangeType&#34;: 16,
+        &#34;ChangeTypeString&#34;: &#34;Removed&#34;,
+        &#34;ChangeTime&#34;: &#34;2016-03-08T07:53:05&#34;,
+        &#34;MetaData&#34;: &#34;No available yet.&#34;
+    }
+]
+</pre>
+			
+		</li>
+	
+
+	
+
+		</ul>
+	</div>
+	
+
+	
+	
+
+	
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<span class="btn btn-primary">GET</span>
+			<code>/MobileAPIAction/ContentChangeEvent/Get{?lastModifiedDate}</code>
+		</div>
+
+		<div class="panel-body">
+			
+		</div>
+
+		<ul class="list-group">
+			
+			
+	
+		
+	
+
+		
+	
+		<li class="list-group-item bg-default response">
+			<strong>Response <code>200</code></strong>
+			<a href="javascript:;" class="pull-right btn btn-link btn-sm snippet-toggle">SHOW</a>
+		</li>
+		<li class="list-group-item snippet">
+			
+				<code>&lt; Content-Type: application/json; charset=utf-8</code><br>
+			
+			
+				<pre class="prettyprint">[
+    {
+        &#34;Id&#34;: 1,
+        &#34;ChangedContentId&#34;: 11827,
+        &#34;ChangedContentType&#34;: &#34;AssociationMember&#34;,
+        &#34;ChangeType&#34;: 16,
+        &#34;ChangeTypeString&#34;: &#34;Removed&#34;,
+        &#34;ChangeTime&#34;: &#34;2016-03-08T07:53:05&#34;,
+        &#34;MetaData&#34;: &#34;No available yet.&#34;
+    }
+]        
+</pre>
+			
+		</li>
+	
+
+	
+
+		</ul>
+	</div>
+	
+
+
+			</div>
+		</div>
+	</div>
+
+
+					</div>
+				</div>
+			</div>
+		</div>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+		<script src="//google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
+		<script>
+			jQuery(function($) {
+				$('#group-tab a:first').tab('show');
+				$('.snippet-toggle').on("click", function(e) {
+					e.preventDefault();
+
+					var target = $(this).data('target');
+					$(this).parent().next().toggle();
+					if ($(this).text() == "SHOW") {
+						$(this).text("HIDE");
+					} else {
+						$(this).text("SHOW");
+					}
+				});
+			});
+		</script>
+	</body>
+</html>
