@@ -1,7 +1,7 @@
 @import "normalize";
 @import "fonts";
 @import "rouge-base16-dark.scss";
-
+@import "_bootstrap.scss";
 
 $base-color-white: #fff;
 $base-color-orange: #F38227;
@@ -222,7 +222,7 @@ h1.navbar-header {
       color: $base-color-white;
       padding-bottom: 50px;
       h2 {
-        font-size: 2.5em
+        font-size: 2.5em;
         margin: 0 0 30px;
       }
       h3 {
