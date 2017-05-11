@@ -159,7 +159,7 @@ layout: default
   <div>
     <ul class="row">
       <li class="col-sm-15">
-        <img src="assets/Images/People-01.png" alt="">
+        <img src="/assets/Images/People-01.png" alt="">
         <div class="text-fade">
           <h4>Jun</h4>
           <p class="position">ADMINISTRATION & HR MANAGER</p>
