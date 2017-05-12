@@ -24,21 +24,21 @@ layout: default
       <div class="row">
         <h2>Types of software we develop</h2>
         <section class="col-sm-4">
-          <img class="img-responsive" src="assets/Images/icon-01.png" alt="Web applications">
+          <img class="img-responsive" src="./assets/Images/icon-01.png" alt="Web applications">
           <h3>Web applications</h3>
           <p>
             Applications that run<br> responsive design, Security
           </p>
         </section>
         <section class="col-sm-4">
-          <img class="img-responsive" src="assets/Images/icon-02.png" alt="Mobile applications">
+          <img class="img-responsive" src="./assets/Images/icon-02.png" alt="Mobile applications">
           <h3>Mobile applications</h3>
           <p>
             We develop for<br> IOS, Android, Web
           </p>
         </section>
         <section class="col-sm-4">
-          <img class="img-responsive" src="assets/Images/icon-01.png" alt="Desktop applications">
+          <img class="img-responsive" src="./assets/Images/icon-01.png" alt="Desktop applications">
           <h3>Desktop applications</h3>
           <p>
             Windows desktops apps<br> macOS apps<br> Universal Windows Platform (UWP) apps.
@@ -54,75 +54,75 @@ layout: default
       <div>
         <ul class="row">
           <li class="col-md-2">
-            <img src="assets/Images/logo-01.png" alt="Orchard">
+            <img src="./assets/Images/logo-01.png" alt="Orchard">
             <p>Orchard</p>
           </li>
           <li class="col-md-2">
-            <img src="assets/Images/logo-02.png" alt=".Net Core">
+            <img src="./assets/Images/logo-02.png" alt=".Net Core">
             <p>.Net Core</p>
           </li>
           <li class="col-md-2">
-            <img src="assets/Images/logo-03.png" alt="ReactJS">
+            <img src="./assets/Images/logo-03.png" alt="ReactJS">
             <p>ReactJS</p>
           </li>
           <li class="col-md-2">
-            <img src="assets/Images/logo-04.png" alt="React Native">
+            <img src="./assets/Images/logo-04.png" alt="React Native">
             <p>React Native</p>
           </li>
           <li class="col-md-2">
-            <img src="assets/Images/logo-05.png" alt="C# 6.0">
+            <img src="./assets/Images/logo-05.png" alt="C# 6.0">
             <p>C# 6.0</p>
           </li>
           <li class="col-md-2">
-            <img src="assets/Images/logo-06.png" alt="Cordova">
+            <img src="./assets/Images/logo-06.png" alt="Cordova">
             <p>Cordova</p>
           </li>
           <li class="col-md-2">
-            <img src="assets/Images/logo-07.png" alt="Git and Github">
+            <img src="./assets/Images/logo-07.png" alt="Git and Github">
             <p>Git and Github</p>
           </li>
           <li class="col-md-2">
-            <img src="assets/Images/logo-08.png" alt="HTML5">
+            <img src="./assets/Images/logo-08.png" alt="HTML5">
             <p>HTML5</p>
           </li>
           <li class="col-md-2">
-            <img src="assets/Images/logo-09.png" alt="CSS">
+            <img src="./assets/Images/logo-09.png" alt="CSS">
             <p>CSS</p>
           </li>
           <li class="col-md-2">
-            <img src="assets/Images/logo-10.png" alt="Java">
+            <img src="./assets/Images/logo-10.png" alt="Java">
             <p>Java</p>
           </li>
           <li class="col-md-2">
-            <img src="assets/Images/logo-11.png" alt="Javascript">
+            <img src="./assets/Images/logo-11.png" alt="Javascript">
             <p>Javascript</p>
           </li>
           <li class="col-md-2">
-            <img src="assets/Images/logo-12.png" alt="JQuery">
+            <img src="./assets/Images/logo-12.png" alt="JQuery">
             <p>JQuery</p>
           </li>
           <li class="col-md-2">
-            <img src="assets/Images/logo-13.png" alt="Objective C">
+            <img src="./assets/Images/logo-13.png" alt="Objective C">
             <p>Objective C</p>
           </li>
           <li class="col-md-2">
-            <img src="assets/Images/logo-14.png" alt="Phython">
+            <img src="./assets/Images/logo-14.png" alt="Phython">
             <p>Phython</p>
           </li>
           <li class="col-md-2">
-            <img src="assets/Images/logo-15.png" alt="Selenium">
+            <img src="./assets/Images/logo-15.png" alt="Selenium">
             <p>Selenium</p>
           </li>
           <li class="col-md-2">
-            <img src="assets/Images/logo-16.png" alt="Slack">
+            <img src="./assets/Images/logo-16.png" alt="Slack">
             <p>Slack</p>
           </li>
           <li class="col-md-2">
-            <img src="assets/Images/logo-17.png" alt="Trello and Trello API">
+            <img src="./assets/Images/logo-17.png" alt="Trello and Trello API">
             <p>Trello and Trello API</p>
           </li>
           <li class="col-md-2">
-            <img src="assets/Images/logo-18.png" alt="Window Azure">
+            <img src="./assets/Images/logo-18.png" alt="Window Azure">
             <p>Window Azure</p>
           </li>
         </ul>
@@ -159,7 +159,7 @@ layout: default
   <div>
     <ul class="row">
       <li class="col-sm-15">
-        <img src="assets/Images/People-01.png" alt="">
+        <img src="./assets/Images/People-01.png" alt="">
         <div class="text-fade">
           <h4>Jun</h4>
           <p class="position">ADMINISTRATION & HR MANAGER</p>
@@ -167,7 +167,7 @@ layout: default
         </div>
       </li>
       <li class="col-sm-15">
-        <img src="assets/Images/People-02.png" alt="">
+        <img src="./assets/Images/People-02.png" alt="">
         <div class="text-fade">
           <h4>Jun</h4>
           <p class="position">ADMINISTRATION & HR MANAGER</p>
@@ -175,7 +175,7 @@ layout: default
         </div>
       </li>
       <li class="col-sm-15">
-        <img src="assets/Images/People-03.png" alt="">
+        <img src="./assets/Images/People-03.png" alt="">
         <div class="text-fade">
           <h4>Jun</h4>
           <p class="position">ADMINISTRATION & HR MANAGER</p>
@@ -183,7 +183,7 @@ layout: default
         </div>
       </li>
       <li class="col-sm-15">
-        <img src="assets/Images/People-04.png" alt="">
+        <img src="./assets/Images/People-04.png" alt="">
         <div class="text-fade">
           <h4>Jun</h4>
           <p class="position">ADMINISTRATION & HR MANAGER</p>
@@ -191,7 +191,7 @@ layout: default
         </div>
       </li>
       <li class="col-sm-15">
-        <img src="assets/Images/People-05.png" alt="">
+        <img src="./assets/Images/People-05.png" alt="">
         <div class="text-fade">
           <h4>Jun</h4>
           <p class="position">ADMINISTRATION & HR MANAGER</p>
@@ -199,7 +199,7 @@ layout: default
         </div>
       </li>
       <li class="col-sm-15">
-        <img src="assets/Images/People-06.png" alt="">
+        <img src="./assets/Images/People-06.png" alt="">
         <div class="text-fade">
           <h4>Jun</h4>
           <p class="position">ADMINISTRATION & HR MANAGER</p>
@@ -207,7 +207,7 @@ layout: default
         </div>
       </li>
       <li class="col-sm-15">
-        <img src="assets/Images/People-07.png" alt="">
+        <img src="./assets/Images/People-07.png" alt="">
         <div class="text-fade">
           <h4>Jun</h4>
           <p class="position">ADMINISTRATION & HR MANAGER</p>
@@ -215,7 +215,7 @@ layout: default
         </div>
       </li>
       <li class="col-sm-15">
-        <img src="assets/Images/People-01.png" alt="">
+        <img src="./assets/Images/People-01.png" alt="">
         <div class="text-fade">
           <h4>Jun</h4>
           <p class="position">ADMINISTRATION & HR MANAGER</p>
@@ -223,7 +223,7 @@ layout: default
         </div>
       </li>
       <li class="col-sm-15">
-        <img src="assets/Images/People-02.png" alt="">
+        <img src="./assets/Images/People-02.png" alt="">
         <div class="text-fade">
           <h4>Jun</h4>
           <p class="position">ADMINISTRATION & HR MANAGER</p>
@@ -231,7 +231,7 @@ layout: default
         </div>
       </li>
       <li class="col-sm-15">
-        <img src="assets/Images/People-03.png" alt="">
+        <img src="./assets/Images/People-03.png" alt="">
         <div class="text-fade">
           <h4>Jun</h4>
           <p class="position">ADMINISTRATION & HR MANAGER</p>
@@ -266,10 +266,10 @@ layout: default
     </section>
     <section class="col-sm-4 social-link">
       <ul class="clearfix">
-        <li><a href=""><img src="assets/Images/SocialIcon-01.png" alt="Mail"></a></li>
-        <li><a href=""><img src="assets/Images/SocialIcon-02.png" alt="Facebook"></a></li>
-        <li><a href=""><img src="assets/Images/SocialIcon-03.png" alt="Linkedin"></a></li>
-        <li><a href=""><img src="assets/Images/SocialIcon-04.png" alt="Twitter"></a></li>
+        <li><a href=""><img src="./assets/Images/SocialIcon-01.png" alt="Mail"></a></li>
+        <li><a href=""><img src="./assets/Images/SocialIcon-02.png" alt="Facebook"></a></li>
+        <li><a href=""><img src="./assets/Images/SocialIcon-03.png" alt="Linkedin"></a></li>
+        <li><a href=""><img src="./assets/Images/SocialIcon-04.png" alt="Twitter"></a></li>
       </ul>
     </section>
   </div>
