@@ -1,6 +1,6 @@
-theme: salween-theme
-title: Salween theme
-description: Salween is a theme for GitHub Pages.
+title: Salween Website
+description: GitHub Pages site for Salween Solutions.
 show_downloads: false
 google_analytics:
-theme: 
+repository: salween/salween.github.io
+theme: salween-theme
