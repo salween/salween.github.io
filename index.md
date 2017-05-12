@@ -6,7 +6,7 @@ layout: default
     <div class="col-md-8">
       <img src="./assets/images/BG-2.png" alt="">
     </div>
-    <div class="col-md-4">
+    <div class="col-md-4 text-salween-wrapper">
       <div class="text-salween">
         <h2>SALWEEN SOLUTIONS</h2>
         <p>have been <span>Developing Software</span><br>used all over the world for more than<br>ten years.</p>
