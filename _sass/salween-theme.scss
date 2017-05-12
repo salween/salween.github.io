@@ -10,7 +10,7 @@ $margin-and-padding-top-30: 30px;
 
 .header-area {
   height: 100vh;
-  background: url("./assets/Images/BG-1.png") left top no-repeat;
+  background: url("../images/BG-1.png") left top no-repeat;
   background-size: cover;
   position: relative;
   .navbar.navbar-default {
@@ -169,7 +169,7 @@ h1.navbar-header {
     padding: 50px 0 50px;
     color: $base-color-white;
     text-align: center;
-    background: #1988BD url("./assets/Images/BG-3.png") no-repeat left top;
+    background: #1988BD url("../images/BG-3.png") no-repeat left top;
     background-size: cover;
     position: relative;
     .fa {
@@ -206,7 +206,7 @@ h1.navbar-header {
     }
   }
   .based-area {
-    background: url("./assets/Images/BG-4.png") left top no-repeat;
+    background: url("../images/BG-4.png") left top no-repeat;
     background-size: cover;
     position: relative;
     .fa {
@@ -254,7 +254,7 @@ h1.navbar-header {
 }
 .content-team {
   padding: 50px 0;
-  background: url("./assets/Images/BG-5.jpg") left top repeat;
+  background: url("../images/BG-5.jpg") left top repeat;
   hgroup {
     color: #333;
     text-align: center;
