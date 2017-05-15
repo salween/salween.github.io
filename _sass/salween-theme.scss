@@ -217,17 +217,17 @@ h1.navbar-header {
       opacity: .6;
       padding: 150px 0 80px;
     }
-    hgroup {
+    h2 {
+      font-size: 2.5em;
+      margin: 0 0 30px;
+      text-align: center;
+      color: $base-color-white;
+    }
+    h3 {
+      font-size: 1.5em;
       text-align: center;
       color: $base-color-white;
       padding-bottom: 50px;
-      h2 {
-        font-size: 2.5em;
-        margin: 0 0 30px;
-      }
-      h3 {
-        font-size: 1.5em;
-      }
     }
     ul {
       list-style: none;
@@ -255,19 +255,19 @@ h1.navbar-header {
 .content-team {
   padding: 50px 0;
   background: url("../images/BG-5.jpg") left top repeat;
-  hgroup {
+  h2 {
+    font-size: 2.5em;
+    margin: 0 0 30px;
+    color: #333;
+    text-align: center;
+  }
+  h3 {
+    font-size: 1.2em;
     color: #333;
     text-align: center;
     padding: 0 0 50px 0;
-    h2 {
-      font-size: 2.5em;
-      margin: 0 0 30px;
-    }
-    h3 {
-      font-size: 1.2em;
-      margin: 0;
-      font-weight: normal;
-    }
+    margin: 0;
+    font-weight: normal;
   }
   ul {
     list-style: none;
