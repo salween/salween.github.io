@@ -3,10 +3,10 @@ layout: default
 ---
 <section class="content-services">
   <div class="clearfix container company-wrapper">
-    <div class="col-md-8">
+    <div class="company-images">
       <img src="./assets/images/BG-2.png" alt="">
     </div>
-    <div class="col-md-4">
+    <div class="company-text">
       <div class="text-salween">
         <h2>SALWEEN SOLUTIONS</h2>
         <p>have been <span>Developing Software</span><br>used all over the world for more than<br>ten years.</p>
@@ -18,24 +18,24 @@ layout: default
     <div class="bounce"><i class="fa glyphicon glyphicon-menu-down"></i><i class="fa glyphicon glyphicon-menu-down"></i></div>
   </div>
   <div class="software-wrapper">
-    <div class="container title-software">
-      <div class="row">
+    <div class="container">
+      <div class="title-software-inner">
         <h2>Types of software we develop</h2>
-        <section class="col-sm-4">
+        <section class="image-wrapper">
           <img class="img-responsive" src="./assets/images/icon-01.png" alt="Web applications">
           <h3>Web applications</h3>
           <p>
             Applications that run<br> responsive design, Security
           </p>
         </section>
-        <section class="col-sm-4">
+        <section class="image-wrapper">
           <img class="img-responsive" src="./assets/images/icon-02.png" alt="Mobile applications">
           <h3>Mobile applications</h3>
           <p>
             We develop for<br> IOS, Android, Web
           </p>
         </section>
-        <section class="col-sm-4">
+        <section class="image-wrapper">
           <img class="img-responsive" src="./assets/images/icon-01.png" alt="Desktop applications">
           <h3>Desktop applications</h3>
           <p>
@@ -51,75 +51,75 @@ layout: default
       <section class="technologies-inner">
       <div>
         <ul class="row">
-          <li class="col-md-2">
+          <li>
             <img src="./assets/images/logo-01.png" alt="Orchard">
             <p>Orchard</p>
           </li>
-          <li class="col-md-2">
+          <li>
             <img src="./assets/images/logo-02.png" alt=".Net Core">
             <p>.Net Core</p>
           </li>
-          <li class="col-md-2">
+          <li>
             <img src="./assets/images/logo-03.png" alt="ReactJS">
             <p>ReactJS</p>
           </li>
-          <li class="col-md-2">
+          <li>
             <img src="./assets/images/logo-04.png" alt="React Native">
             <p>React Native</p>
           </li>
-          <li class="col-md-2">
+          <li>
             <img src="./assets/images/logo-05.png" alt="C# 6.0">
             <p>C# 6.0</p>
           </li>
-          <li class="col-md-2">
+          <li>
             <img src="./assets/images/logo-06.png" alt="Cordova">
             <p>Cordova</p>
           </li>
-          <li class="col-md-2">
+          <li>
             <img src="./assets/images/logo-07.png" alt="Git and Github">
             <p>Git and Github</p>
           </li>
-          <li class="col-md-2">
+          <li>
             <img src="./assets/images/logo-08.png" alt="HTML5">
             <p>HTML5</p>
           </li>
-          <li class="col-md-2">
+          <li>
             <img src="./assets/images/logo-09.png" alt="CSS">
             <p>CSS</p>
           </li>
-          <li class="col-md-2">
+          <li>
             <img src="./assets/images/logo-10.png" alt="Java">
             <p>Java</p>
           </li>
-          <li class="col-md-2">
+          <li>
             <img src="./assets/images/logo-11.png" alt="Javascript">
             <p>Javascript</p>
           </li>
-          <li class="col-md-2">
+          <li>
             <img src="./assets/images/logo-12.png" alt="JQuery">
             <p>JQuery</p>
           </li>
-          <li class="col-md-2">
+          <li>
             <img src="./assets/images/logo-13.png" alt="Objective C">
             <p>Objective C</p>
           </li>
-          <li class="col-md-2">
+          <li>
             <img src="./assets/images/logo-14.png" alt="Phython">
             <p>Phython</p>
           </li>
-          <li class="col-md-2">
+          <li>
             <img src="./assets/images/logo-15.png" alt="Selenium">
             <p>Selenium</p>
           </li>
-          <li class="col-md-2">
+          <li>
             <img src="./assets/images/logo-16.png" alt="Slack">
             <p>Slack</p>
           </li>
-          <li class="col-md-2">
+          <li>
             <img src="./assets/images/logo-17.png" alt="Trello and Trello API">
             <p>Trello and Trello API</p>
           </li>
-          <li class="col-md-2">
+          <li>
             <img src="./assets/images/logo-18.png" alt="Window Azure">
             <p>Window Azure</p>
           </li>
@@ -151,8 +151,8 @@ layout: default
     <h2>We are a Team of Planner & Developer</h2>
     <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis eros semperenim rhoncus convallis sit amet ac mi.</h3>
   <div>
-    <ul class="row">
-      <li class="col-sm-15">
+    <ul>
+      <li>
         <img src="./assets/images/People-01.png" alt="">
         <div class="text-fade">
           <h4>Jun</h4>
@@ -160,7 +160,7 @@ layout: default
           <p class="text">"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."</p>
         </div>
       </li>
-      <li class="col-sm-15">
+      <li>
         <img src="./assets/images/People-02.png" alt="">
         <div class="text-fade">
           <h4>Jun</h4>
@@ -168,7 +168,7 @@ layout: default
           <p class="text">"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."</p>
         </div>
       </li>
-      <li class="col-sm-15">
+      <li>
         <img src="./assets/images/People-03.png" alt="">
         <div class="text-fade">
           <h4>Jun</h4>
@@ -176,7 +176,7 @@ layout: default
           <p class="text">"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."</p>
         </div>
       </li>
-      <li class="col-sm-15">
+      <li>
         <img src="./assets/images/People-04.png" alt="">
         <div class="text-fade">
           <h4>Jun</h4>
@@ -184,7 +184,7 @@ layout: default
           <p class="text">"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."</p>
         </div>
       </li>
-      <li class="col-sm-15">
+      <li>
         <img src="./assets/images/People-05.png" alt="">
         <div class="text-fade">
           <h4>Jun</h4>
@@ -192,7 +192,7 @@ layout: default
           <p class="text">"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."</p>
         </div>
       </li>
-      <li class="col-sm-15">
+      <li>
         <img src="./assets/images/People-06.png" alt="">
         <div class="text-fade">
           <h4>Jun</h4>
@@ -200,7 +200,7 @@ layout: default
           <p class="text">"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."</p>
         </div>
       </li>
-      <li class="col-sm-15">
+      <li>
         <img src="./assets/images/People-07.png" alt="">
         <div class="text-fade">
           <h4>Jun</h4>
@@ -208,7 +208,7 @@ layout: default
           <p class="text">"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."</p>
         </div>
       </li>
-      <li class="col-sm-15">
+      <li>
         <img src="./assets/images/People-01.png" alt="">
         <div class="text-fade">
           <h4>Jun</h4>
@@ -216,7 +216,7 @@ layout: default
           <p class="text">"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."</p>
         </div>
       </li>
-      <li class="col-sm-15">
+      <li>
         <img src="./assets/images/People-02.png" alt="">
         <div class="text-fade">
           <h4>Jun</h4>
@@ -224,7 +224,7 @@ layout: default
           <p class="text">"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."</p>
         </div>
       </li>
-      <li class="col-sm-15">
+      <li>
         <img src="./assets/images/People-03.png" alt="">
         <div class="text-fade">
           <h4>Jun</h4>
@@ -242,7 +242,7 @@ layout: default
 </section>
 <footer>
   <div class="container">
-    <section class="col-sm-4">
+    <section>
       <h2>CONTACT US</h2>
       <dl class="clearfix">
         <dt>Phone:</dt>
@@ -254,11 +254,11 @@ layout: default
       </dl>
       <p>Feel free to chat with us</p>
     </section>
-    <section class="col-sm-4">
+    <section>
       <h2>LOCATION</h2>
       <p>1 Promphan 2 Building, 8th Floor, Office 800<br>Lat Phrao Soi 3, Chompol<br>Bangkok, Chatuchak 10900<br>Thailand</p>
     </section>
-    <section class="col-sm-4 social-link">
+    <section class="social-link">
       <ul class="clearfix">
         <li><a href=""><img src="./assets/images/SocialIcon-01.png" alt="Mail"></a></li>
         <li><a href=""><img src="./assets/images/SocialIcon-02.png" alt="Facebook"></a></li>

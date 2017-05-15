@@ -96,30 +96,16 @@ h1.navbar-header {
     line-height: 1.7;
     padding-bottom: 50px;
     position: relative;
-    section.col-md-7 {
+    .company-images {
+      @include make-md-column(8);
       padding-right: 30px;
     }
     img {
       width: 100%;
       height: 500px;
     }
-    .text-salween {
-      position: relative;
-      margin-bottom: 50px;
-      padding: 30px 0;
-      &:before {
-        content: "";
-        background: #aaa;
-        width: 200px;
-        height: 1px;
-        position: absolute;
-        left: 50%;
-        margin-right: -50%;
-        bottom: 0;
-        transform: translate(-50%,-50%);
-      }
-    }
-    section {
+    .company-text {
+      @include make-md-column(4);
       padding: 0;
       text-align: center;
       h2 {
@@ -144,11 +130,32 @@ h1.navbar-header {
         }
       }
     }
+    .text-salween {
+      position: relative;
+      margin-bottom: 50px;
+      padding: 30px 0;
+      &:before {
+        content: "";
+        background: #aaa;
+        width: 200px;
+        height: 1px;
+        position: absolute;
+        left: 50%;
+        margin-right: -50%;
+        bottom: 0;
+        transform: translate(-50%,-50%);
+      }
+    }
   }
   .software-wrapper {
     text-align: center;
     background: #E3E4E6;
     padding: 50px 0;
+    .title-software {
+      .title-software.inner {
+        @include make-row;
+      }
+    }
     h2 {
       margin: 0 0 50px;
       color: #3A3A3A;
@@ -163,6 +170,9 @@ h1.navbar-header {
     img.img-responsive {
       margin: 0 auto 30px;
       max-width: 60%;
+    }
+    .image-wrapper {
+      @include make-sm-column(4);
     }
   }
   .technologies-wrapper {
@@ -190,10 +200,12 @@ h1.navbar-header {
       margin: 0 0 50px;
     }
     ul {
+      @include make-row;
       list-style: none;
       padding: 0;
       margin: 0;
       li {
+        @include make-md-column(2);
         margin: 0 0 30px;
         img {
           margin-bottom: 30px;
@@ -252,6 +264,22 @@ h1.navbar-header {
     }
   }
 }
+/* 5 Columns */
+.list-team {
+    position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+    width: 20%;
+    float: left;
+}
+@media (min-width: 992px) {
+    .list-team {
+        width: 20%;
+        float: left;
+    }
+}
+
 .content-team {
   padding: 50px 0;
   background: url("../images/BG-5.jpg") left top repeat;
@@ -270,11 +298,12 @@ h1.navbar-header {
     font-weight: normal;
   }
   ul {
+    @include make-row;
     list-style: none;
     padding: 0;
     margin: 0;
     li {
-      float: left;
+      @extend .list-team;
       margin: 0;
       padding: 0;
       position: relative;
@@ -345,6 +374,9 @@ footer {
   padding: 30px 0;
   background: #1A2127;
   color: $base-color-white;
+  section {
+    @include make-sm-column(4);
+  }
   h2 {
     font-size: 1.5em;
     margin: 0 0 30px;
@@ -430,37 +462,4 @@ footer {
     0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
     40% {transform: translateY(-10px);}
     60% {transform: translateY(-10px);}
-}
-/* 5 Columns */
-.col-xs-15,
-.col-sm-15,
-.col-md-15,
-.col-lg-15 {
-    position: relative;
-    min-height: 1px;
-    padding-right: 10px;
-    padding-left: 10px;
-}
-
-.col-xs-15 {
-    width: 20%;
-    float: left;
-}
-@media (min-width: 768px) {
-    .col-sm-15 {
-        width: 20%;
-        float: left;
-    }
-}
-@media (min-width: 992px) {
-    .col-md-15 {
-        width: 20%;
-        float: left;
-    }
-}
-@media (min-width: 1200px) {
-    .col-lg-15 {
-        width: 20%;
-        float: left;
-    }
 }
