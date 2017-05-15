@@ -11,10 +11,8 @@ layout: default
         <h2>SALWEEN SOLUTIONS</h2>
         <p>have been <span>Developing Software</span><br>used all over the world for more than<br>ten years.</p>
       </div>
-      <hgroup>
         <h3>We develop</h3>
         <h4>web, mobile<br>desktop, applications</h4>
-      </hgroup>
       <p>applications using a range of<br>technologies.</p>
     </div>
     <div class="bounce"><i class="fa glyphicon glyphicon-menu-down"></i><i class="fa glyphicon glyphicon-menu-down"></i></div>
@@ -134,10 +132,8 @@ layout: default
   <div class="based-area">
     <div class="area-inner">
       <div class="container">
-        <hgroup>
           <h2>We are based in Bangkok</h2>
           <h3>We've been developing software for over ten years</h3>
-        </hgroup>
         <ul class="clearfix">
           <li><a href="#">Test Driver Development</a></li>
           <li><a href="#">Continuous Integration</a></li>
@@ -152,10 +148,8 @@ layout: default
   </div>
 </section>
 <section class="content-team">
-  <hgroup>
     <h2>We are a Team of Planner & Developer</h2>
     <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis eros semperenim rhoncus convallis sit amet ac mi.</h3>
-  </hgroup>
   <div>
     <ul class="row">
       <li class="col-sm-15">
