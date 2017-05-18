@@ -5,8 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link href="https://fastcdn.org/Animate.css/3.4.0/animate.min.css" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.js"></script>
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -17,18 +20,18 @@
 
   </head>
   <body>
-    <header class="header-area clearfix">
-      <nav class="navbar navbar-default">
+    <header id="header" class="header-area clearfix">
+      <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid container">
           <h1 class="navbar-header">
             <a class="navbar-brand salween-logo" href="#"><img src="./assets/images/Salween-19.png" alt="Salween solutions"></a>
           </h1>
           <ul class="nav navbar-nav navbar-right">
-            <li class="active"><a href="#">HOME</a></li>
-            <li><a href="#">SERVICES</a></li>
-            <li><a href="#">TEAM</a></li>
-            <li><a href="#">ABOUT US</a></li>
-            <li><a href="#">CONTACT US</a></li>
+            <li><a href="#header" class="active scroll">HOME</a></li>
+            <li><a href="#SERVICES" class="scroll">SERVICES</a></li>
+            <li><a href="#TEAM" class="scroll">TEAM</a></li>
+            <li><a href="#ABOUT" class="scroll">ABOUT US</a></li>
+            <li><a href="#CONTACT" class="scroll">CONTACT US</a></li>
           </ul>
         </div>
       </nav>
@@ -36,6 +39,12 @@
         We develop software <br> for humans
       </p>
       <button class="header-button">Discover More</button>
+      <div class="bounce-arrow">
+      <a href="#SERVICES" class="scroll">
+      <i class="fa glyphicon glyphicon-menu-down"></i>
+      <i class="fa glyphicon glyphicon-menu-down"></i>
+      </a>
+      </div>
     </header>
         {{ content }}
 
