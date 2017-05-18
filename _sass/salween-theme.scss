@@ -10,12 +10,12 @@ $margin-and-padding-top-30: 30px;
 
 .header-area {
   height: 100vh;
-  background: url("../images/BG-1.png") left top no-repeat;
+  background: url("../images/BG-1.png") fixed left top no-repeat;
   background-size: cover;
   position: relative;
   .navbar.navbar-default {
-    background: transparent;
-    padding-top: 30px;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 30px 0;
     a {
       background: transparent;
       color: $base-color-white;
@@ -76,8 +76,15 @@ h1.navbar-header {
     color: #C4C4C4;
     font-weight: bold;
     &:focus {
-      color: #C4C4C4;
+      color: #fff;
     }
+    &:active {
+      color: #fff;
+    }
+  }
+  a.active {
+    color: #fff;
+    text-decoration: underline;
   }
   .active {
     a {
@@ -96,6 +103,7 @@ h1.navbar-header {
     line-height: 1.7;
     padding-bottom: 50px;
     position: relative;
+    overflow: hidden;
     .company-images {
       @include make-md-column(8);
       padding-right: 30px;
@@ -151,6 +159,9 @@ h1.navbar-header {
     text-align: center;
     background: #E3E4E6;
     padding: 50px 0;
+    .container {
+      overflow: hidden;
+    }
     .title-software {
       .title-software.inner {
         @include make-row;
@@ -173,13 +184,16 @@ h1.navbar-header {
     }
     .image-wrapper {
       @include make-sm-column(4);
+      p {
+        overflow: hidden;
+      }
     }
   }
   .technologies-wrapper {
     padding: 50px 0 50px;
     color: $base-color-white;
     text-align: center;
-    background: #1988BD url("../images/BG-3.png") no-repeat left top;
+    background: #1988BD url("../images/BG-3.png") fixed no-repeat left top;
     background-size: cover;
     position: relative;
     .fa {
@@ -218,16 +232,19 @@ h1.navbar-header {
     }
   }
   .based-area {
-    background: url("../images/BG-4.png") left top no-repeat;
+    background: url("../images/BG-4.png") fixed left top no-repeat;
     background-size: cover;
     position: relative;
     .fa {
       color: $base-color-white;
     }
     .area-inner {
-      background: #000;
+      background: rgba(0, 0, 0, 0.5);
       opacity: .6;
       padding: 150px 0 80px;
+      .container {
+        overflow: hidden;
+      }
     }
     h2 {
       font-size: 2.5em;
@@ -283,7 +300,7 @@ h1.navbar-header {
 
 .content-team {
   padding: 50px 0;
-  background: url("../images/BG-5.jpg") left top repeat;
+  background: url("../images/BG-5.jpg") fixed left top repeat;
   .text-fade-out {
     opacity: 0.0;
     margin: 0;
@@ -342,6 +359,7 @@ h1.navbar-header {
     list-style: none;
     padding: 0;
     margin: 0;
+    overflow: hidden;
     li {
       @extend .list-team;
       margin: 0;
@@ -458,7 +476,7 @@ footer {
     color: #E3E4E6;
     line-height: .5;
   }
-.bounce {
+.bounce-arrow {
     position: absolute;
     bottom: -20px;
     left: 50% ;
@@ -469,6 +487,18 @@ footer {
     -webkit-animation: bounce 2s infinite;
     -moz-animation: bounce 2s infinite;
     -o-animation: bounce 2s infinite;
+    a {
+      &:hover {
+        text-decoration: none;
+        opacity: 0.7;
+      }
+      &:active {
+        text-decoration: none;
+      }
+      &:focus {
+        text-decoration: none;
+      }
+    }
 }
 
 @-webkit-keyframes bounce {

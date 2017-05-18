@@ -3,12 +3,12 @@ layout: default
 ---
 
 {::options parse_block_html="true" /}
-<section class="content-services">
+<section class="content-services" id="SERVICES">
 <div class="clearfix container company-wrapper">
-<div class="company-images">
+<div class="company-images animated">
 ![SALWEEN SOLUTIONS](./assets/images/BG-2.png)
 </div>
-<div class="company-text">
+<div class="company-text animated">
 <div class="text-salween">
 ## SALWEEN SOLUTIONS
 
@@ -21,9 +21,11 @@ ten years.
 #### web, mobile<br />desktop, applications
 applications using a range of<br />technologies.
 </div>
-<div class="bounce">
+<div class="bounce-arrow">
+<a href="#Technologies" class="scroll">
 <i class="fa glyphicon glyphicon-menu-down"></i>
 <i class="fa glyphicon glyphicon-menu-down"></i>
+</a>
 </div>
 </div>
 </section>
@@ -41,7 +43,6 @@ applications using a range of<br />technologies.
         <h4>web, mobile<br>desktop, applications</h4>
       <p>applications using a range of<br>technologies.</p>
     </div>
-    <div class="bounce"><i class="fa glyphicon glyphicon-menu-down"></i><i class="fa glyphicon glyphicon-menu-down"></i></div>
   </div>
 </section>
 <section class="content-services">
@@ -49,17 +50,18 @@ applications using a range of<br />technologies.
 <div class="container">
 <div class="title-software-inner">
 ## Types of software we develop
-<section class="image-wrapper">
+{: .animated }
+<section class="image-wrapper img01 animated">
 ![Web applications](./assets/images/icon-01.png){: .img-responsive }
 ### Web applications
 Applications that run<br /> responsive design, Security
 </section>
-<section class="image-wrapper">
+<section class="image-wrapper img02 animated">
 ![Mobile applications](./assets/images/icon-02.png){: .img-responsive }
 ### Mobile applications
 We develop for<br /> IOS, Android, Web
 </section>
-<section class="image-wrapper">
+<section class="image-wrapper img03 animated">
 ![Desktop applications](./assets/images/icon-01.png){: .img-responsive }
 ### Desktop applications
 Windows desktops apps<br> macOS apps<br> Universal Windows Platform (UWP) apps.
@@ -98,11 +100,12 @@ Windows desktops apps<br> macOS apps<br> Universal Windows Platform (UWP) apps.
 
 </section>
 <section class="content-services">
-<section class="technologies-wrapper">
+<section id="Technologies" class="technologies-wrapper">
 ## Technologies
+{: .animated }
 <div class="container">
-<div class="technologies-inner">
-<div>
+<div class="technologies-inner ">
+<div class="animated">
 - ![Orchard](./assets/images/logo-01.png)  
 Orchard
 - ![.Net Core](./assets/images/logo-02.png)  
@@ -139,12 +142,14 @@ Slack
 Trello and Trello API
 - ![Window Azure](./assets/images/logo-18.png)  
 Window Azure
-<div class="bounce">
+</div>
+</div>
+</div>
+<div class="bounce-arrow">
+<a href="#TEAM" class="scroll">
 <i class="fa glyphicon glyphicon-menu-down"></i>
 <i class="fa glyphicon glyphicon-menu-down"></i>
-</div>
-</div>
-</div>
+</a>
 </div>
 </section>
 </section>
@@ -226,7 +231,6 @@ Window Azure
           <p>Window Azure</p>
         </li>
       </ul>
-      <div class="bounce"><i class="fa glyphicon glyphicon-menu-down"></i><i class="fa glyphicon glyphicon-menu-down"></i></div>
     </div>
   </div>
 </section>
@@ -236,18 +240,18 @@ Window Azure
 <div class="area-inner">
 <div class="container">
 ## We are based in Bangkok
+{: .animated}
 ### We've been developing software for over ten years
+{: .animated }
+<div class="animated based-area-link">
 - [Test Driver Development](http://salween.com "Test Driver Development")    
 - [Continuous Integration](http://salween.com "Continuous Integration")    
 - [End to end testing ](http://salween.com "End to end testing")   
 - [Agile Methodologies](http://salween.com "Agile Methodologies")  
-- [Microsoft Gold Parners ](http://salween.com "Microsoft Gold Parners")    
+- [Microsoft Gold Parners ](http://salween.com "Microsoft Gold Parners")  
+</div>  
 </div>
 </div>
-</div>
-<div class="bounce">
-<i class="fa glyphicon glyphicon-menu-down"></i>
-<i class="fa glyphicon glyphicon-menu-down"></i>
 </div>
 </section>
 <div class="based-area">
@@ -265,58 +269,58 @@ Window Azure
       <p></p>
     </div>
   </div>
-  <div class="bounce"><i class="fa glyphicon glyphicon-menu-down"></i><i class="fa glyphicon glyphicon-menu-down"></i></div>
 </div>
-<section class="content-team">
+<section class="content-team" id="TEAM">
 {::options auto_ids="false" /}
+<div class="animated">
 ## We are a Team of Planner & Developer
 ### Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis eros semperenim rhoncus convallis sit amet ac mi.
-- ![People](./assets/images/People-01.png)
+</div>
+- ![People](./assets/images/People-01.png){:  .animated}
+#### Jun    
+##### ADMINISTRATION & HR MANAGER
+"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
+- ![People](./assets/images/People-02.png){: .animated}  
 #### Jun    
 ##### ADMINISTRATION & HR MANAGER
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
-- ![People](./assets/images/People-02.png)  
+- ![People](./assets/images/People-03.png){: .animated}  
 #### Jun    
 ##### ADMINISTRATION & HR MANAGER
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
-- ![People](./assets/images/People-03.png)  
+- ![People](./assets/images/People-04.png){: .animated}  
 #### Jun    
 ##### ADMINISTRATION & HR MANAGER
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
-- ![People](./assets/images/People-04.png)  
+- ![People](./assets/images/People-05.png){: .animated}
 #### Jun    
 ##### ADMINISTRATION & HR MANAGER
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
-- ![People](./assets/images/People-05.png)
+- ![People](./assets/images/People-06.png){: .animated}
 #### Jun    
 ##### ADMINISTRATION & HR MANAGER
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
-- ![People](./assets/images/People-06.png)
+- ![People](./assets/images/People-07.png){: .animated}
 #### Jun    
 ##### ADMINISTRATION & HR MANAGER
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
-- ![People](./assets/images/People-07.png)
+- ![People](./assets/images/People-01.png){: .animated}
 #### Jun    
 ##### ADMINISTRATION & HR MANAGER
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
-- ![People](./assets/images/People-01.png)
+- ![People](./assets/images/People-02.png){: .animated}
 #### Jun    
 ##### ADMINISTRATION & HR MANAGER
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
-- ![People](./assets/images/People-02.png)
-#### Jun    
-##### ADMINISTRATION & HR MANAGER
-"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
-
-- ![People](./assets/images/People-03.png)
+- ![People](./assets/images/People-03.png){: .animated}
 #### Jun    
 ##### ADMINISTRATION & HR MANAGER
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
@@ -410,7 +414,7 @@ Window Azure
     </ul>
   </div>
 </section>
-<section class="content-contact-us">
+<section class="content-contact-us" id="ABOUT">
 <div>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1937.2262589149777!2d100.5643517064789!3d13.81184444759192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29c4fecf9c121%3A0xd211864fd071fd2b!2sSalween+Solutions+Co.%2C+Ltd.!5e0!3m2!1sth!2sth!4v1494321073791" width="1900" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
@@ -421,6 +425,7 @@ Window Azure
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1937.2262589149777!2d100.5643517064789!3d13.81184444759192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29c4fecf9c121%3A0xd211864fd071fd2b!2sSalween+Solutions+Co.%2C+Ltd.!5e0!3m2!1sth!2sth!4v1494321073791" width="1900" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
   </div>
 </section>
+<section id="CONTACT">
 <footer>
 <div class="container">
 <section>
@@ -450,7 +455,7 @@ Thailand
 </section>
 </div>
 </footer>
-
+</section>
 <footer>
   <div class="container">
     <section>
