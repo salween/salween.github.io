@@ -6,10 +6,11 @@
     <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link href="https://fastcdn.org/Animate.css/3.4.0/animate.min.css" rel="stylesheet">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -23,16 +24,23 @@
     <header id="header" class="header-area clearfix">
       <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid container">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#header-nav">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
           <h1 class="navbar-header">
-            <a class="navbar-brand salween-logo" href="#"><img src="./assets/images/Salween-19.png" alt="Salween solutions"></a>
+            <a class="navbar-brand salween-logo" href="#"><img src="./assets/images/Salween-logo-01.png" alt="Salween solutions"></a>
           </h1>
-          <ul class="nav navbar-nav navbar-right">
-            <li><a href="#header" class="active scroll">HOME</a></li>
-            <li><a href="#SERVICES" class="scroll">SERVICES</a></li>
-            <li><a href="#TEAM" class="scroll">TEAM</a></li>
-            <li><a href="#ABOUT" class="scroll">ABOUT US</a></li>
-            <li><a href="#CONTACT" class="scroll">CONTACT US</a></li>
-          </ul>
+          <div class="collapse navbar-collapse" id="header-nav">
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="#header" class="active scroll">HOME</a></li>
+              <li><a href="#SERVICES" class="scroll">SERVICES</a></li>
+              <li><a href="#TEAM" class="scroll">TEAM</a></li>
+              <li><a href="#ABOUT" class="scroll">ABOUT US</a></li>
+              <li><a href="#CONTACT" class="scroll">CONTACT US</a></li>
+            </ul>
+          </div>
         </div>
       </nav>
       <p class="haeder-title">

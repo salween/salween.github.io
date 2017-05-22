@@ -5,7 +5,7 @@ $(document).ready(function(){
           scrollTop: $(this.hash).offset().top
       }, 3000);
   });
-  var sections = $('section')
+  var sections = $('section, header, footer')
     , nav = $('nav.navbar-default ul li')
     , nav_height = nav.outerHeight();
   $(window).on('scroll', function () {
