@@ -420,7 +420,8 @@ Window Azure
 </section>
 
 <section>
-  <div id="google-map">
+  <div>
+    "id = google-map" Google map Area
   </div>
 </section>
 <footer id="CONTACT">
