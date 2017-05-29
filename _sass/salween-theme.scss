@@ -504,7 +504,90 @@ footer {
       }
     }
 }
-
+.content-contact-us {
+  #google-map {
+    height: 600px;
+    width: 100%;
+    display: block;
+    color: #333;
+    text-align: left;
+    position: relative;
+    z-index: 9;
+  }
+    .content-map {
+      background: #F4821F;
+      color: #fff;
+      padding: 20px;
+      text-align: left;
+      width: 350px;
+      cursor: auto;
+      .company-name {
+        background: url("../images/Map-icon-01.png") no-repeat left top;
+        background-size: 20px 20px;
+        padding-left: 25px;
+        margin: 0 0 20px;
+        font-size: 20px;
+      }
+      .address {
+        font-size: 16px;
+        line-height: 1.5;
+      }
+      .link {
+        text-align: center;
+        margin: 0;
+        a {
+          display: inline-block;
+          border: 1px solid #fff;
+          border-radius: 20px;
+          padding: 5px 15px;
+          color: #fff;
+          position: relative;
+          &:hover {
+            text-decoration: none;
+            opacity: .7;
+          }
+          i {
+            padding-left: 15px;
+            top: 3px;
+          }
+        }
+      }
+    }
+}
+.gm-style {
+  .gm-style-iw {
+      background-color: #F4821F !important;
+      top: 0 !important;
+      left: 0 !important;
+      width: 100%!important;
+      height: 100% !important;
+      min-height: 174px !important;
+      display: block !important;
+   }
+  div {
+    div {
+      div {
+        div {
+          div {
+            div {
+              div {
+                div {
+                  background-color: #F4821F !important;
+                  padding: 0;
+                  margin: 0;
+                  padding: 0;
+                  top: 0;
+                  color: #fff;
+                  font-size: 16px;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
 @-webkit-keyframes bounce {
     0%, 20%, 50%, 80%, 100% {-webkit-transform: translateY(0);}
     40% {transform: translateY(-10px);}

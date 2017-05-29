@@ -56,3 +56,33 @@ $(document).ready(function(){
   }, { offset: '60%'});
 
 });
+function initMap() {
+  var salween = {lat: 13.8122707, lng: 100.5645161};
+  var map = new google.maps.Map(document.getElementById('google-map'), {
+    zoom: 15,
+    center: salween,
+    scrollwheel: false,
+  });
+  var contentString = '<div class="content-map">'+
+      '<h1 class="company-name">Salween Solutions Co., Ltd.</h1>'+
+      '<div class="address">'+
+      '<p>1 Promphan 2 Building, 8th Floor, <br/>' +
+      'Office 800 Lat Phrao Soi 3, Chompol <br /> '+
+      'Bangkok Chatuchak 10900 <br /> '+
+      'Thailand </p>' +
+      '<p class="link"><a href="#">Get Directions<i class="glyphicon glyphicon-menu-right"></i></a></p>'+
+      '</div>'+
+      '</div>';
+
+  var infowindow = new google.maps.InfoWindow({
+    content: contentString
+  });
+  var marker = new google.maps.Marker({
+    position: {lat: 13.8122707, lng: 100.5645161},
+    map: map,
+  });
+  marker.addListener('click', function() {
+    infowindow.open(map, marker);
+  });
+  infowindow.open(map,marker);
+}
