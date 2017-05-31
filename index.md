@@ -79,8 +79,8 @@ CSS
 Java
 - ![Javascript](./assets/images/logo-11.png)  
 Javascript
-- ![JQuery](./assets/images/logo-12.png)  
-JQuery
+- ![jQuery](./assets/images/logo-12.png)  
+jQuery
 - ![Objective C](./assets/images/logo-13.png)  
 Objective C
 - ![Phython](./assets/images/logo-14.png)  
