@@ -83,8 +83,8 @@ Javascript
 jQuery
 - ![Objective C](./assets/images/logo-13.png)  
 Objective C
-- ![Phython](./assets/images/logo-14.png)  
-Phython
+- ![Python](./assets/images/logo-14.png)  
+Python
 - ![Selenium](./assets/images/logo-15.png)  
 Selenium
 - ![Slack](./assets/images/logo-16.png)  
