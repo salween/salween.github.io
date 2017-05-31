@@ -26,12 +26,12 @@ $margin-and-padding-top-30: 30px;
     }
   }
   .haeder-title {
-    font-size: 2.5em;
+    font-size: 6.6vw;
     color: $base-color-white;
     position: absolute;
     top: 50%;
     left: 50%;
-    margin-right: -50%;
+    margin: 0 -50% 0 0;
     text-align: center;
     transform: translate(-50%, -50%);
   }
