@@ -176,10 +176,10 @@ Window Azure
 ##### ADMINISTRATION & HR MANAGER
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 </section>
-<section class="content-contact-us" id="ABOUT">
+<div class="content-contact-us" id="ABOUT">
 <div id="google-map">
 </div>
-</section>
+</div>
 <footer id="CONTACT">
 <div class="container">
 <section>
@@ -201,11 +201,11 @@ Lat Phrao Soi 3, Chompol
 Bangkok, Chatuchak 10900  
 Thailand
 </section>
-<section class="social-link">
+<div class="social-link">
 - [![Mail](./assets/images/SocialIcon-01.png)](http://salween.com)
 - [![Facebook](./assets/images/SocialIcon-02.png)](http://salween.com)
 - [![Linkedin](./assets/images/SocialIcon-03.png)](http://salween.com)
 - [![Twitter](./assets/images/SocialIcon-04.png)](http://salween.com)
-</section>
+</div>
 </div>
 </footer>
