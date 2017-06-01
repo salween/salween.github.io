@@ -7,7 +7,9 @@ $base-color-white: #fff;
 $base-color-orange: #F38227;
 $base-color-dark-gray: #69696B;
 $margin-and-padding-top-30: 30px;
-
+body {
+  font-family: 'Open Sans';
+}
 .header-area {
   height: 100vh;
   background: url("../images/BG-1.png") fixed left top no-repeat;
