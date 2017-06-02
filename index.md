@@ -36,7 +36,7 @@ applications using a range of<br />technologies.
 <section class="image-wrapper img01 animated">
 ![Web applications](./assets/images/icon-01.png){: .img-responsive }
 ### Web applications
-Applications that run<br /> responsive design, Security
+Applications that run<br /> Responsive design, Security
 </section>
 <section class="image-wrapper img02 animated">
 ![Mobile applications](./assets/images/icon-02.png){: .img-responsive }
@@ -46,7 +46,7 @@ We develop for<br /> IOS, Android, Web
 <section class="image-wrapper img03 animated">
 ![Desktop applications](./assets/images/icon-01.png){: .img-responsive }
 ### Desktop applications
-Windows desktops apps<br> macOS apps<br> Universal Windows Platform (UWP) apps.
+Universal Windows Platform (UWP) apps<br>Windows desktops apps<br>macOS apps
 </section>
 </div>
 </div>
@@ -74,7 +74,7 @@ Git and Github
 - ![HTML5](./assets/images/logo-08.png)  
 HTML5
 - ![CSS](./assets/images/logo-09.png)  
-CSS
+CSS3
 - ![Java](./assets/images/logo-10.png)  
 Java
 - ![Javascript](./assets/images/logo-11.png)  
@@ -103,84 +103,86 @@ Window Azure
 </a>
 </div>
 </section>
-<div class="based-area">
+</section>
+<section class="based-area" id="ABOUT">
 <div class="area-inner">
 <div class="container">
 ## We are based in Bangkok
 {: .animated}
-### We've been developing software for over ten years
+### We’ve been developing software for over ten years.
 {: .animated }
 <div class="animated based-area-link">
-- [Test Driver Development](http://salween.com "Test Driver Development")    
-- [Continuous Integration](http://salween.com "Continuous Integration")    
-- [End to end testing ](http://salween.com "End to end testing")   
-- [Agile Methodologies](http://salween.com "Agile Methodologies")  
-- [Microsoft Gold Parners ](http://salween.com "Microsoft Gold Parners")  
+- [Test Driven Development](http://salween.com "Test Driven Development")    
+- [Agile Methodologies](http://salween.com "Agile Methodologies")    
+- [Continuous Integration](http://salween.com "Continuous Integration")   
+- [End to end testing](http://salween.com "End to end testing")  
+- [Microsoft Gold Partners](http://salween.com "Microsoft Gold Partners")  
 </div>  
 </div>
 </div>
-</div>
 </section>
+
 <section class="content-team" id="TEAM">
 {::options auto_ids="false" /}
 <div class="animated">
 ## We are a Team of Planner & Developer
-### Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis eros semperenim rhoncus convallis sit amet ac mi.
+### The Developers
 </div>
 - ![People](./assets/images/People-01.png){:  .animated}
-#### Jun    
-##### ADMINISTRATION & HR MANAGER
+#### Jean    
+##### Software Architect
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 - ![People](./assets/images/People-02.png){: .animated}  
-#### Jun    
-##### ADMINISTRATION & HR MANAGER
+#### Ton  
+##### Senior Developer
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
 - ![People](./assets/images/People-03.png){: .animated}  
-#### Jun    
-##### ADMINISTRATION & HR MANAGER
+#### Orc  
+##### Senior Developer
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
 - ![People](./assets/images/People-04.png){: .animated}  
-#### Jun    
-##### ADMINISTRATION & HR MANAGER
+#### Phyo
+##### Software Developer
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
 - ![People](./assets/images/People-05.png){: .animated}
-#### Jun    
-##### ADMINISTRATION & HR MANAGER
+#### Deo   
+##### Software Developer
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
 - ![People](./assets/images/People-06.png){: .animated}
-#### Jun    
-##### ADMINISTRATION & HR MANAGER
+#### Koon    
+##### Software Developer
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
 - ![People](./assets/images/People-07.png){: .animated}
-#### Jun    
-##### ADMINISTRATION & HR MANAGER
+#### Santi    
+##### Software Developer
+"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
+
+- ![People](./assets/images/People-03.png){: .animated}
+#### Pek    
+##### Software Developer
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
 - ![People](./assets/images/People-01.png){: .animated}
-#### Jun    
-##### ADMINISTRATION & HR MANAGER
+#### Charles    
+##### Managing Director
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
 - ![People](./assets/images/People-02.png){: .animated}
 #### Jun    
-##### ADMINISTRATION & HR MANAGER
+##### Administration and HR Manager
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
-- ![People](./assets/images/People-03.png){: .animated}
-#### Jun    
-##### ADMINISTRATION & HR MANAGER
-"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 </section>
-<div class="content-contact-us" id="ABOUT">
+<div class="content-contact-us" id="CONTACT">
 <div id="google-map">
 </div>
 </div>
-<footer id="CONTACT">
+<footer>
 <div class="container">
 <section>
 ## CONTACT US
@@ -196,9 +198,9 @@ Feel free to chat with us
 </section>
 <section>
 ## LOCATION
-1 Promphan 2 Building, 8th Floor, Office 800  
-Lat Phrao Soi 3, Chompol  
-Bangkok, Chatuchak 10900  
+1 Promphan 3 Building, 13th Floor, Unit 1308 - 1312  
+Soi 3, Ladphrao Road, Chompol,  
+Chatuchak, Bangkok 10900  
 Thailand
 </section>
 <div class="social-link">

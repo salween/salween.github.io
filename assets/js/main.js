@@ -66,10 +66,11 @@ function initMap() {
   var contentString = '<div class="content-map">'+
       '<h1 class="company-name">Salween Solutions Co., Ltd.</h1>'+
       '<div class="address">'+
-      '<p>1 Promphan 2 Building, 8th Floor, <br/>' +
-      'Office 800 Lat Phrao Soi 3, Chompol <br /> '+
+      '<p>1 Promphan 3 Building, 13th Floor,<br/>' +
+      'Unit 1308 - 1312 Lat Phrao Soi 3, Chompol <br /> '+
       'Bangkok Chatuchak 10900 <br /> '+
       'Thailand </p>' +
+      '<p>Feel free to chat to us via email at inquiries@salweensolutions.com</p>'+
       '<p class="link"><a href="#">Get Directions<i class="glyphicon glyphicon-menu-right"></i></a></p>'+
       '</div>'+
       '</div>';

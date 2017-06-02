@@ -112,7 +112,6 @@ h1.navbar-header {
     }
     img {
       width: 100%;
-      height: 500px;
     }
     .company-text {
       @include make-md-column(4);
@@ -178,7 +177,7 @@ h1.navbar-header {
       margin-bottom: 50px;
     }
     p {
-      color: #C2C2C4;
+      color: #b2b2b2;
     }
     img.img-responsive {
       margin: 0 auto 30px;
@@ -221,6 +220,7 @@ h1.navbar-header {
       padding: 0;
       margin: 0;
       li {
+        @include make-xs-column(6);
         @include make-md-column(2);
         margin: 0 0 30px;
         img {
@@ -233,57 +233,58 @@ h1.navbar-header {
       }
     }
   }
-  .based-area {
-    background: url("../images/BG-4.png") fixed left top no-repeat;
-    background-size: cover;
-    position: relative;
-    .fa {
-      color: $base-color-white;
+}
+.based-area {
+  background: url("../images/BG-4.png") fixed left top no-repeat;
+  background-size: cover;
+  position: relative;
+  .fa {
+    color: $base-color-white;
+  }
+  .area-inner {
+    background: rgba(0, 0, 0, 0.5);
+    opacity: .6;
+    padding: 150px 0 80px;
+    .container {
+      overflow: hidden;
     }
-    .area-inner {
-      background: rgba(0, 0, 0, 0.5);
-      opacity: .6;
-      padding: 150px 0 80px;
-      .container {
-        overflow: hidden;
-      }
-    }
-    h2 {
-      font-size: 2.5em;
-      margin: 0 0 30px;
-      text-align: center;
-      color: $base-color-white;
-    }
-    h3 {
-      font-size: 1.5em;
-      text-align: center;
-      color: $base-color-white;
-      padding-bottom: 50px;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-      margin-left: -50px;
-      text-align: center;
-      @include clearfix;
-      li {
-        display: inline-block;
-        margin: 0 0 50px 50px;
-        a {
-          border: 1px solid $base-color-white;
-          padding: 10px 40px;
-          color: $base-color-white;
-          font-size: 1.3em;
-          display: block;
-          &:hover {
-            text-decoration: none;
+  }
+  h2 {
+    font-size: 2.5em;
+    margin: 0 0 30px;
+    text-align: center;
+    color: $base-color-white;
+  }
+  h3 {
+    font-size: 1.5em;
+    text-align: center;
+    color: $base-color-white;
+    padding-bottom: 50px;
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+    margin-left: -50px;
+    text-align: center;
+    @include clearfix;
+    li {
+      display: inline-block;
+      margin: 0 0 50px 50px;
+      a {
+        border: 1px solid $base-color-white;
+        padding: 10px 40px;
+        color: $base-color-white;
+        font-size: 1.3em;
+        display: block;
+        &:hover {
+          text-decoration: none;
 
-          }
         }
       }
     }
   }
 }
+
 /* 5 Columns */
 .list-team {
     position: relative;
@@ -508,7 +509,7 @@ footer {
 }
 .content-contact-us {
   #google-map {
-    height: 600px;
+    height: 720px;
     width: 100%;
     display: block;
     color: #333;
@@ -563,7 +564,7 @@ footer {
       left: 0 !important;
       width: 100%!important;
       height: 100% !important;
-      min-height: 174px !important;
+      min-height: 250px !important;
       display: block !important;
    }
   div {
