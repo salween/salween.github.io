@@ -178,7 +178,31 @@ Window Azure
 #### Jun    
 ##### Administration and HR Manager
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
-
+</section>
+<section class="job container" id="job">
+<div class="animated">
+## Jobs
+If you’re looking for a challenge, contact us!
+</div>
+<div class="job-inner">
+### Software Developer  
+- C#
+- Orchard CMS
+- .NET MVC  
+</div>
+<div class="job-inner">
+### Frontend Developer   
+- ReactJS
+- Angular
+- Bootstrap, Less, Sass  
+</div>
+<div class="job-inner">
+### Mobile Developer  
+- React Native
+- Cordova
+- iOS
+- Android  
+</div>
 </section>
 <div class="content-contact-us" id="CONTACT">
 <div id="google-map">
