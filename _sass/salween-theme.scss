@@ -365,7 +365,7 @@ h1.navbar-header {
     @include make-row;
     list-style: none;
     padding: 0;
-    margin: 0;
+    margin: 0 0 30px;
     overflow: hidden;
     li {
       @extend .list-team;

@@ -166,7 +166,9 @@ Window Azure
 #### Pek    
 ##### Software Developer
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
-
+<div class="animated">
+### The Suits
+</div>
 - ![People](./assets/images/People-01.png){: .animated}
 #### Charles    
 ##### Managing Director
