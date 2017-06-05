@@ -179,11 +179,10 @@ Window Azure
 ##### Administration and HR Manager
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 </section>
-<section class="job container" id="job">
-<div class="animated">
+<section class="job" id="job">
+<div class="animated container">
 ## Jobs
 If you’re looking for a challenge, contact us!
-</div>
 <div class="job-inner">
 ### Software Developer  
 - C#
@@ -202,6 +201,7 @@ If you’re looking for a challenge, contact us!
 - Cordova
 - iOS
 - Android  
+</div>
 </div>
 </section>
 <div class="content-contact-us" id="CONTACT">
