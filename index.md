@@ -128,7 +128,9 @@ Window Azure
 ## We are a Team of Planner & Developer
 ### The Developers
 </div>
-- ![People](./assets/images/People-01.png){:  .animated}
+
+{: .photo01 .animated}
+- ![People](./assets/images/Jean.png){:  .animated}
 #### Jean    
 ##### Software Architect
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
@@ -137,44 +139,53 @@ Window Azure
 ##### Senior Developer
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
-- ![People](./assets/images/People-03.png){: .animated}  
+- ![People](./assets/images/Orc.png){: .animated}  
 #### Orc  
 ##### Senior Developer
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
-- ![People](./assets/images/People-04.png){: .animated}  
+- ![People](./assets/images/Note.png){: .animated}
+#### Note   
+##### Software Developer
+"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
+
+- ![People](./assets/images/Phyo.png){: .animated}  
 #### Phyo
 ##### Software Developer
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
-- ![People](./assets/images/People-05.png){: .animated}
-#### Deo   
-##### Software Developer
-"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
-- ![People](./assets/images/People-06.png){: .animated}
+{: .photo02 .animated}
+- ![People](./assets/images/Koon.png){: .animated}
 #### Koon    
 ##### Software Developer
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
-- ![People](./assets/images/People-07.png){: .animated}
+- ![People](./assets/images/Santi.png){: .animated}
 #### Santi    
 ##### Software Developer
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
-- ![People](./assets/images/People-03.png){: .animated}
+- ![People](./assets/images/Fai.png){: .animated}
+#### Fai    
+##### Software Developer
+"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
+
+- ![People](./assets/images/Pek.png){: .animated}
 #### Pek    
 ##### Software Developer
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 <div class="animated">
 ### The Suits
 </div>
-- ![People](./assets/images/People-01.png){: .animated}
+
+{: .animated .theSuits}
+- ![People](./assets/images/Charles.png){: .animated}
 #### Charles    
 ##### Managing Director
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
-- ![People](./assets/images/People-02.png){: .animated}
+- ![People](./assets/images/Jun.png){: .animated}
 #### Jun    
 ##### Administration and HR Manager
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."

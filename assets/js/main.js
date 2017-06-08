@@ -23,7 +23,7 @@ $(document).ready(function(){
       }
     });
   });
-  $('.company-images, .company-text, .image-wrapper, .technologies-inner > div, .based-area h2, .based-area h3, .based-area-link, #TEAM img').css('opacity',0);
+  $('.company-images, .company-text, .image-wrapper, .technologies-inner > div, .based-area h2, .based-area h3, .based-area-link, #TEAM ul, #TEAM > div.animated').css('opacity',0);
   $(".company-text").waypoint(function() {
       $('.company-text').addClass('fadeInRight');
   }, { offset: '40%'});
@@ -51,10 +51,12 @@ $(document).ready(function(){
   }, { offset: '50%'});
   $("#TEAM").waypoint(function() {
       $('#TEAM > div.animated').addClass('fadeInDown');
-      $('#TEAM  ul li:odd img').addClass('rotateInDownLeft');
-      $('#TEAM > ul li:even img').addClass('rotateInDownRight');
+      $("#TEAM ul.photo01").addClass('fadeInUp');
   }, { offset: '60%'});
-
+  $("#TEAM").waypoint(function() {
+      $("#TEAM ul.photo02").addClass('fadeInUp');
+      $("#TEAM ul.theSuits").addClass('fadeInUp');
+  }, { offset: '30%'});
 });
 function initMap() {
   var salween = {lat: 13.8122707, lng: 100.5645161};
