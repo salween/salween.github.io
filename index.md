@@ -12,14 +12,14 @@ layout: default
 <div class="text-salween">
 ## SALWEEN SOLUTIONS
 
-have been <span>Developing Software</span><br />
+have been <span>developing software</span><br />
 used all over the world for more than<br />
 ten years.
 
 </div>
 ### We develop
-#### web, mobile<br />desktop, applications
-applications using a range of<br />technologies.
+web, mobile and desktop applications
+applications using a range of technologies.
 </div>
 <div class="bounce-arrow">
 <a href="#Technologies" class="scroll">
@@ -41,7 +41,7 @@ Applications that run<br /> Responsive design, Security
 <section class="image-wrapper img02 animated">
 ![Mobile applications](./assets/images/icon-02.png){: .img-responsive }
 ### Mobile applications
-We develop for<br /> IOS, Android, Web
+We develop for<br />iOS and Android
 </section>
 <section class="image-wrapper img03 animated">
 ![Desktop applications](./assets/images/icon-01.png){: .img-responsive }
