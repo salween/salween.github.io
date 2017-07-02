@@ -225,9 +225,6 @@ If you’re looking for a challenge, contact us!
 Phone:
 : 111-258-8574  
 
-Fax:
-: 475-854-8520
-
 Email:
 : inquiries@salweensolutions.com
 Feel free to chat with us
@@ -240,10 +237,8 @@ Chatuchak, Bangkok 10900
 Thailand
 </section>
 <div class="social-link">
-- [![Mail](./assets/images/SocialIcon-01.png)](http://salween.com)
-- [![Facebook](./assets/images/SocialIcon-02.png)](http://salween.com)
-- [![Linkedin](./assets/images/SocialIcon-03.png)](http://salween.com)
-- [![Twitter](./assets/images/SocialIcon-04.png)](http://salween.com)
+- [![Facebook](./assets/images/SocialIcon-02.png)](https://www.facebook.com/salweensolutions/)
+- [![Twitter](./assets/images/SocialIcon-04.png)](https://mobile.twitter.com/salween)
 </div>
 </div>
 </footer>
