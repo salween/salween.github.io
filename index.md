@@ -18,8 +18,7 @@ ten years.
 
 </div>
 ### We develop
-web, mobile and desktop applications
-applications using a range of technologies.
+web, mobile and desktop applications using a range of technologies.
 </div>
 <div class="bounce-arrow">
 <a href="#Technologies" class="scroll">
@@ -31,16 +30,16 @@ applications using a range of technologies.
 <div class="software-wrapper">
 <div class="container">
 <div class="title-software-inner">
-## Types of software we develop
+## Software we develop
 {: .animated }
 <section class="image-wrapper img01 animated">
 ![Web applications](./assets/images/icon-01.png){: .img-responsive }
 ### Web applications
-Applications that run<br /> Responsive design, Security
+Applications that are<br /> Usable, Responsive and Secure
 </section>
 <section class="image-wrapper img02 animated">
 ![Mobile applications](./assets/images/icon-02.png){: .img-responsive }
-### Mobile applications
+### Mobile apps
 We develop for<br />iOS and Android
 </section>
 <section class="image-wrapper img03 animated">
