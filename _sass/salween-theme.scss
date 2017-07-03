@@ -412,21 +412,22 @@ h1.navbar-header {
       &:hover {
         h4 {
           @extend .text-fade-in;
-          margin: 0 0 20px;
-          display: block;
+          margin: 0;
+          display: inline-block;
           background: rgba(0, 0, 0, 0.7);
         }
         h5 {
           @extend .text-fade-in;
-          margin-bottom: 30px;
-          display: block;
-          top: 30%;
+          display: inline-block;
+          top: 15%;
         }
         p {
           @extend .text-fade-in;
           text-align: center;
-          display: block;
+          display: inline-block;
           top: 50%;
+          margin-top: -50px;
+          line-height: 1.6;
         }
       }
       img {

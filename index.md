@@ -132,50 +132,58 @@ Window Azure
 - ![Jean](./assets/images/Jean.png){:  .animated}
 #### Jean    
 ##### Software Architect
-No work day is complete without **pushing or merging a pull request** <br/>
-When I have free time I spend time on ** _free/libre_ software [gnu.org](https://www.gnu.org/) **
+No work day is complete without **pushing or merging a pull request**  
+When I have free time I spend time on **_free/libre_ software [gnu.org](https://www.gnu.org/)**
 
 - ![Ton](./assets/images/Ton.png){: .animated}  
 #### Ton  
 ##### Senior Developer
-"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
+No work day is complete without **Scrum meeting.**  
+When I have free time I spend time on **push-up and sit-up**
 
 - ![Orc](./assets/images/Orc.png){: .animated}  
 #### Orc  
 ##### Senior Developer
-"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
+No work day is complete without **TASKS**  
+When I have free time I spend time on **PLAYING A GAME**
 
 - ![Note](./assets/images/Note.png){: .animated}
 #### Note   
 ##### Senior Developer
-"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
+No work day is complete without **some nice music**  
+When I have free time I spend time on **finding new songs**
 
 - ![Phyo](./assets/images/Phyo.png){: .animated}  
 #### Phyo
 ##### Software Developer
-"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
+No work day is complete without **a cup of coffee**  
+When I have free time I spend time on **reading or watching football match.**
 
 
 {: .photo02 .animated}
 - ![Koon](./assets/images/Koon.png){: .animated}
 #### Koon    
 ##### Software Developer
-"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
+No work day is complete without **some great food.**  
+When I have free time I spend time on **workout and traveling.**
 
 - ![Santi](./assets/images/Santi.png){: .animated}
 #### Santi    
-##### Designer
-"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
+##### Graphic designer
+No work day is complete without **amusement**  
+When I have free time I spend time on **listening to music**
 
 - ![Fai](./assets/images/Fai.png){: .animated}
 #### Fai    
 ##### Software Developer
-"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
+No work day is complete without **learning**  
+When I have free time I spend time on **plant trees, read books and watch movies**
 
 - ![Pek](./assets/images/Pek.png){: .animated}
 #### Pek    
 ##### Software Developer
-"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
+No work day is complete without **some snack**  
+When I have free time I spend time on **reading and watching youtube channel**
 <div class="animated">
 ### The Suits
 </div>
@@ -184,12 +192,13 @@ When I have free time I spend time on ** _free/libre_ software [gnu.org](https:/
 - ![Charles](./assets/images/Charles.png){: .animated}
 #### Charles    
 ##### Managing Director
-"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
-
+No work day is complete without **podcasts and todo lists**  
+When I have free time I spend time on **rebuilding my media center**
 - ![Jun](./assets/images/Jun.png){: .animated}
 #### Jun    
 ##### Administration and HR Manager
-"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
+No work day is complete without **my favorite coffee AHa**  
+When I have free time I spend time on **playing with my 3 dogs**
 </section>
 <section class="job" id="job">
 <div class="animated container">

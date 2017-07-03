@@ -2,16 +2,16 @@ $(document).ready(function(){
   $(".scroll").on("click", function (event) {
       event.preventDefault();
       $("html,body").animate({
-          scrollTop: $(this.hash).offset().top
+          scrollTop: $(this.hash).offset().top - 110
       }, 3000);
   });
-  var sections = $('section#SERVICES,section#TEAM,section#ABOUT, section#TEAM, section#CONTACT, header, footer')
+  var sections = $('section#SERVICES,section#TEAM,section#ABOUT, section#TEAM, section#CONTACT, header, footer, div#CONTACT')
     , nav = $('nav.navbar-default ul li')
     , nav_height = nav.outerHeight();
   $(window).on('scroll', function () {
     var cur_pos = $(this).scrollTop();
     sections.each(function() {
-      var top = $(this).offset().top - nav_height,
+      var top = $(this).offset().top - nav_height - 110,
           bottom = top + $(this).outerHeight();
 
       if (cur_pos >= top && cur_pos <= bottom) {
