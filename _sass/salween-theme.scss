@@ -23,9 +23,12 @@ body {
     a {
       background: transparent;
       color: $base-color-white;
-      font-weight: bold;
+      font-weight: normal;
       &:hover {
         color: #ccc;
+      }
+      &:focus {
+        color: #eee;
       }
     }
   }
@@ -77,18 +80,21 @@ h1.navbar-header {
   border: none;
   a {
     background: transparent;
-    color: #C4C4C4;
-    font-weight: bold;
+    color: #fff;
+    font-weight: normal;
     &:focus {
-      color: #fff;
+      color: #ccc;
     }
     &:active {
       color: #fff;
     }
   }
   a.active {
-    color: #fff;
-    text-decoration: underline;
+    color: #aaa;
+    font-weight: bold;
+    &:focus {
+      color: #ccc;
+    }
   }
   .active {
     a {

@@ -73,7 +73,6 @@ function initMap() {
       'Bangkok Chatuchak 10900 <br /> '+
       'Thailand </p>' +
       '<p>Feel free to chat to us via email at inquiries@salweensolutions.com</p>'+
-      '<p class="link"><a href="#">Get Directions<i class="glyphicon glyphicon-menu-right"></i></a></p>'+
       '</div>'+
       '</div>';
 

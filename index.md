@@ -145,7 +145,7 @@ Window Azure
 
 - ![Note](./assets/images/Note.png){: .animated}
 #### Note   
-##### Software Developer
+##### Senior Developer
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
 - ![Phyo](./assets/images/Phyo.png){: .animated}  
@@ -162,7 +162,7 @@ Window Azure
 
 - ![Santi](./assets/images/Santi.png){: .animated}
 #### Santi    
-##### Software Developer
+##### Designer
 "QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
 
 - ![Fai](./assets/images/Fai.png){: .animated}
