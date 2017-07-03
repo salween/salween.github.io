@@ -132,7 +132,8 @@ Window Azure
 - ![Jean](./assets/images/Jean.png){:  .animated}
 #### Jean    
 ##### Software Architect
-"QUIS EROS SEMPERENIM RHONCUS CONVALLIS SIT AMET AC MI."
+*No work day is complete without* pushing or merging a pull request
+*When I have free time I spend time on* _free/libre_ software [![gnu.org]](https://www.gnu.org/)
 - ![Ton](./assets/images/Ton.png){: .animated}  
 #### Ton  
 ##### Senior Developer
