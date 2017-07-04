@@ -111,11 +111,11 @@ Window Azure
 ### We’ve been developing software for over ten years.
 {: .animated }
 <div class="animated based-area-link">
-- [Test Driven Development](http://salween.com "Test Driven Development")    
-- [Agile Methodologies](http://salween.com "Agile Methodologies")    
-- [Continuous Integration](http://salween.com "Continuous Integration")   
-- [End to end testing](http://salween.com "End to end testing")  
-- [Microsoft Gold Partners](http://salween.com "Microsoft Gold Partners")  
+- [Test Driven Development](http://salweensolutions.com "Test Driven Development")    
+- [Agile Methodologies](http://salweensolutions.com "Agile Methodologies")    
+- [Continuous Integration](http://salweensolutions.com "Continuous Integration")   
+- [End to end testing](http://salweensolutions.com "End to end testing")  
+- [Microsoft Gold Partners](http://salweensolutions.com "Microsoft Gold Partners")  
 </div>  
 </div>
 </div>
