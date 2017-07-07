@@ -65,13 +65,19 @@ body {
     }
   }
 }
+.container-fluid {
+  padding: 0 50px;
+}
 h1.navbar-header {
   margin: 0;
+  position: relative;
+  top: -35px;
   .salween-logo {
     padding: 0;
+    margin: 0;
     img {
       display: block;
-      width: 150px;
+      width: 250px;
     }
   }
 }

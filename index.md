@@ -6,7 +6,7 @@ layout: default
 <section class="content-services" id="SERVICES">
 <div class="clearfix company-wrapper">
 <div class="company-images animated">
-![SALWEEN SOLUTIONS](./assets/images/pic-01.jpg)
+![SALWEEN SOLUTIONS](./assets/images/pic-01.png)
 </div>
 <div class="company-text animated">
 <div class="text-salween">
