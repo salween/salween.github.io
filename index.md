@@ -242,8 +242,8 @@ Feel free to chat with us
 </section>
 <section>
 ## LOCATION
-1 Promphan 3 Building, 13th Floor, Unit 1308 - 1312  
-Soi 3, Ladphrao Road, Chompol,  
+3 Promphan 3 Building, 13th Floor, Unit 1308 - 1312  
+Ladphrao Soi 3, Ladphrao Road, Chompol,  
 Chatuchak, Bangkok 10900  
 Thailand
 </section>
