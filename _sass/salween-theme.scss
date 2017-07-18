@@ -687,3 +687,12 @@ background-image: linear-gradient(to bottom, #4FDCFF 0%, #26A8E0 100%);
     40% {transform: translateY(-10px);}
     60% {transform: translateY(-10px);}
 }
+@media (max-width: 768px) {
+  h1.navbar-header {
+    .salween-logo {
+      img {
+        width: 200px;
+      }
+    }
+  }
+}
