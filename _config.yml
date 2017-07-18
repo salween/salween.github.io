@@ -3,3 +3,5 @@ description: GitHub Pages site for Salween Solutions.
 show_downloads: false
 google_analytics:
 repository: salween/salween.github.io
+sass:
+  style: compressed
