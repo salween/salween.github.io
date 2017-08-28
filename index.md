@@ -12,12 +12,12 @@ layout: default
 <div class="text-salween">
 ## SALWEEN SOLUTIONS
 
-have been <span>developing software</span><br />
-used all over the world for more than<br />
+has been <span>developing software</span><br />
+used all over the world for over<br />
 ten years.
 
 </div>
-### We develop
+### We produce
 web, mobile and desktop applications using a range of technologies.
 </div>
 <div class="bounce-arrow">
@@ -30,22 +30,22 @@ web, mobile and desktop applications using a range of technologies.
 <div class="software-wrapper">
 <div class="container">
 <div class="title-software-inner">
-## Software we develop
+## Our software products
 {: .animated }
 <section class="image-wrapper img01 animated">
 ![Web applications](./assets/images/icon-01.png){: .img-responsive }
 ### Web applications
-Applications that are<br /> Usable, Responsive and Secure
+Usable, Responsive, <br />and Secure Applications
 </section>
 <section class="image-wrapper img02 animated">
 ![Mobile applications](./assets/images/icon-02.png){: .img-responsive }
 ### Mobile apps
-We develop for<br />iOS and Android
+Apps developed for<br />iOS and Android platforms
 </section>
 <section class="image-wrapper img03 animated">
 ![Desktop applications](./assets/images/icon-01.png){: .img-responsive }
 ### Desktop applications
-Universal Windows Platform (UWP) apps<br>Windows desktops apps<br>macOS apps
+Universal Windows Platform (UWP) apps<br>Windows desktop apps<br>macOS apps
 </section>
 </div>
 </div>
@@ -106,25 +106,38 @@ Window Azure
 <section class="based-area" id="ABOUT">
 <div class="area-inner">
 <div class="container">
-## We are based in Bangkok
+## Headquarted in Bangkok
 {: .animated}
-### We’ve been developing software for over ten years.
+### One of Thailand's cutting edge software development companies
 {: .animated }
 <div class="animated based-area-link">
 - [Test Driven Development](http://salweensolutions.com "Test Driven Development")    
 - [Agile Methodologies](http://salweensolutions.com "Agile Methodologies")    
 - [Continuous Integration](http://salweensolutions.com "Continuous Integration")   
 - [End to end testing](http://salweensolutions.com "End to end testing")  
-- [Microsoft Gold Partners](http://salweensolutions.com "Microsoft Gold Partners")  
-</div>  
+- {: .ms-gold}[Microsoft Gold Partners](http://salweensolutions.com "Microsoft Gold Partners")
+</div>
+<div>
+## We have generated award-winning software products since 2006.
+{: .animated}
+### Our software has been awarded 8 AVA Digital awards including a platinum trophy for Web-Based Production Mobile App for Entertainment and an International Hermes Creative Award for Mobile Conference/Event App.
+{: .animated }
+</div>
 </div>
 </div>
 </section>
-
+<section class="awards">
+## Awards
+<div class="awards-inner container">
+- ![Award](./assets/images/Logo01.png){: .img-responsive .img-rounded}
+- ![Award](./assets/images/Logo03.png){: .img-responsive .img-rounded}
+- ![Award](./assets/images/Logo02.png){: .img-responsive .img-rounded}
+</div>
+</section>
 <section class="content-team" id="TEAM">
 {::options auto_ids="false" /}
 <div class="animated">
-## We are a Team of Planner & Developer
+## We are a Team of Developers & Suits
 ### The Developers
 </div>
 
@@ -132,32 +145,32 @@ Window Azure
 - ![Jean](./assets/images/Jean.png){:  .animated}
 #### Jean    
 ##### Software Architect
-No work day is complete without **pushing or merging a pull request**  
-When I have free time I spend time on **_free/libre_ software [gnu.org](https://www.gnu.org/)**
+No work day is complete without **pushing or merging a pull request.**  
+When I have free time, I spend it on **_free/libre_ software [gnu.org](https://www.gnu.org/)**
 
 - ![Ton](./assets/images/Ton.png){: .animated}  
 #### Ton  
 ##### Senior Developer
-No work day is complete without **Scrum meeting.**  
-When I have free time I spend time on **push-up and sit-up**
+No work day is complete without **a Scrum meeting.**  
+When I have free time I spend it doing **push-ups and sit-ups.**
 
 - ![Orc](./assets/images/Orc.png){: .animated}  
 #### Orc  
 ##### Senior Developer
 No work day is complete without **TASKS**  
-When I have free time I spend time on **PLAYING A GAME**
+When I have free time I spend it **PLAYING GAMES**
 
 - ![Note](./assets/images/Note.png){: .animated}
 #### Note   
 ##### Senior Developer
-No work day is complete without **some nice music**  
-When I have free time I spend time on **finding new songs**
+No work day is complete without **some nice music.**  
+When I have free time I spend it **finding new songs.**
 
 - ![Phyo](./assets/images/Phyo.png){: .animated}  
 #### Phyo
 ##### Software Developer
-No work day is complete without **a cup of coffee**  
-When I have free time I spend time on **reading or watching football match.**
+No work day is complete without **a cup of coffee.**  
+When I have free time I spend it **reading or watching football matches.**
 
 
 {: .photo02 .animated}
@@ -165,25 +178,25 @@ When I have free time I spend time on **reading or watching football match.**
 #### Koon    
 ##### Software Developer
 No work day is complete without **some great food.**  
-When I have free time I spend time on **workout and traveling.**
+When I have free time I spend it **working out and traveling.**
 
 - ![Santi](./assets/images/Santi.png){: .animated}
 #### Santi    
 ##### Graphic designer
-No work day is complete without **amusement**  
-When I have free time I spend time on **listening to music**
+No work day is complete without **amusement.**  
+When I have free time I spend it **listening to music.**
 
 - ![Fai](./assets/images/Fai.png){: .animated}
 #### Fai    
 ##### Software Developer
-No work day is complete without **learning**  
-When I have free time I spend time on **plant trees, read books and watch movies**
+No work day is complete without **learning.**  
+When I have free time I spend it **planting trees, reading books, and watching movies.**
 
 - ![Pek](./assets/images/Pek.png){: .animated}
 #### Pek    
 ##### Software Developer
-No work day is complete without **some snack**  
-When I have free time I spend time on **reading and watching youtube channel**
+No work day is complete without **some snacks.**  
+When I have free time I spend it **reading and watching YouTube channels.**
 <div class="animated">
 ### The Suits
 </div>
@@ -192,18 +205,18 @@ When I have free time I spend time on **reading and watching youtube channel**
 - ![Charles](./assets/images/Charles.png){: .animated}
 #### Charles    
 ##### Managing Director
-No work day is complete without **podcasts and todo lists**  
-When I have free time I spend time on **rebuilding my media center**
+No work day is complete without **podcasts and to-do lists.**  
+When I have free time I spend it **rebuilding my media center.**
 - ![Jun](./assets/images/Jun.png){: .animated}
 #### Jun    
 ##### Administration and HR Manager
-No work day is complete without **my favorite coffee AHa**  
-When I have free time I spend time on **playing with my 3 dogs**
+No work day is complete without **my favorite coffee AHa.**  
+When I have free time I spend it **playing with my three dogs.**
 </section>
 <section class="job" id="job">
 <div class="animated container">
 ## Jobs
-If you’re looking for a challenge, contact us!
+If you're looking for a challenging career with an established and growing company, contact us
 <div class="job-inner">
 ### Software Developer  
 - C#
@@ -230,7 +243,7 @@ If you’re looking for a challenge, contact us!
 </div>
 </div>
 <footer>
-<div class="container">
+<div class="clearfix">
 <section>
 ## CONTACT US
 Phone:
