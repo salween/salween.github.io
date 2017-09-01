@@ -106,7 +106,7 @@ Window Azure
 <section class="based-area" id="ABOUT">
 <div class="area-inner">
 <div class="container">
-## Headquarted in Bangkok
+## Headquarter in Bangkok
 {: .animated}
 ### One of Thailand's cutting edge software development companies
 {: .animated }
