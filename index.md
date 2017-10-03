@@ -201,8 +201,8 @@ When I have free time I spend it **reading and watching YouTube channels.**
 - ![James](./assets/images/James.png){: .animated}
 #### James    
 ##### Software Developer
-No work day is complete without **chocolate bar.**
-When I have free time I spend **time on practice programming skill**
+No work day is complete without **a bar of chocolate.**
+When I have free time I spend time on **practicing programming skill.**
 
 <div class="animated">
 ### The Suits
