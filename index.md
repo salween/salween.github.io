@@ -197,6 +197,13 @@ When I have free time I spend it **planting trees, reading books, and watching m
 ##### Software Developer
 No work day is complete without **some snacks.**  
 When I have free time I spend it **reading and watching YouTube channels.**
+
+- ![James](./assets/images/James.png){: .animated}
+#### James    
+##### Software Developer
+No work day is complete without **chocolate bar.**
+When I have free time I spend **time on practice programming skill**
+
 <div class="animated">
 ### The Suits
 </div>
