@@ -202,7 +202,7 @@ When I have free time I spend it **reading and watching YouTube channels.**
 #### James    
 ##### Software Developer
 No work day is complete without **a bar of chocolate.**
-When I have free time I spend time on **practicing programming skill.**
+When I have free time I spend it **practicing my programming skills.**
 
 <div class="animated">
 ### The Suits
