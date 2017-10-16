@@ -21,7 +21,7 @@ ten years.
 web, mobile and desktop applications using a range of technologies.
 </div>
 <div class="bounce-arrow">
-<a href="#Technologies" class="scroll">
+<a href="https://salweensolutions.com/#Technologies" class="scroll">
 <i class="fa glyphicon glyphicon-menu-down"></i>
 <i class="fa glyphicon glyphicon-menu-down"></i>
 </a>
@@ -96,7 +96,7 @@ Window Azure
 </div>
 </div>
 <div class="bounce-arrow">
-<a href="#TEAM" class="scroll">
+<a href="https://salweensolutions.com/#TEAM" class="scroll">
 <i class="fa glyphicon glyphicon-menu-down"></i>
 <i class="fa glyphicon glyphicon-menu-down"></i>
 </a>
