@@ -111,11 +111,11 @@ Window Azure
 ### One of Thailand's cutting edge software development companies
 {: .animated }
 <div class="animated based-area-link">
-- [Test Driven Development](http://salweensolutions.com "Test Driven Development")    
-- [Agile Methodologies](http://salweensolutions.com "Agile Methodologies")    
-- [Continuous Integration](http://salweensolutions.com "Continuous Integration")   
-- [End to end testing](http://salweensolutions.com "End to end testing")  
-- {: .ms-gold}[Microsoft Gold Partners](http://salweensolutions.com "Microsoft Gold Partners")
+- [Test Driven Development](https://salweensolutions.com "Test Driven Development")    
+- [Agile Methodologies](https://salweensolutions.com "Agile Methodologies")    
+- [Continuous Integration](https://salweensolutions.com "Continuous Integration")   
+- [End to end testing](https://salweensolutions.com "End to end testing")  
+- {: .ms-gold}[Microsoft Gold Partners](https://salweensolutions.com "Microsoft Gold Partners")
 </div>
 <div>
 ## We have generated award-winning software products since 2006.
