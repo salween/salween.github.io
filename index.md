@@ -180,8 +180,8 @@ When I have free time I spend it **reading or watching football matches.**
 No work day is complete without **some great food.**  
 When I have free time I spend it **working out and traveling.**
 
-- ![Santi](./assets/images/Santi.png){: .animated}
-#### Santi    
+- ![Tae](./assets/images/Santi.png){: .animated}
+#### Tae    
 ##### Graphic designer
 No work day is complete without **amusement.**  
 When I have free time I spend it **listening to music.**
@@ -203,6 +203,12 @@ When I have free time I spend it **reading and watching YouTube channels.**
 ##### Software Developer
 No work day is complete without **a bar of chocolate.**
 When I have free time I spend it **practicing my programming skills.**
+
+- ![Ying](./assets/images/Ying.png){: .animated}
+#### Ying    
+##### Software Developer
+No work day is complete without **thinking.**
+When I have free time I spend it **grow cactus and listen to the music.**
 
 <div class="animated">
 ### The Suits
