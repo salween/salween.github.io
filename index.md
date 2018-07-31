@@ -236,6 +236,17 @@ When I have free time I spend it **playing with my three dogs.**
 <div class="animated container">
 ## Jobs
 If you're looking for a challenging career with an established and growing company, contact us
+<div class="tester">
+### QA Engineer
+-	Bachelor’s degree in Computer Science Degree or related fields
+- Minimum 3 year experiences as QA Engineer
+- Techniques used include integration testing, unit testing, monitoring and load testing, process automation, executable documentation, fitness functions, and deployment pipelines.
+- Proficiency in relevant technologies :  Cucumber tests (for C# and Javascript (web and mobile) backends), Ansible, TeamCity, K6.io, Prometheus, Wix Detox, and API Blueprint for specifying and mocking services
+- Team player: train and empower developers to rely on testing
+- Ability to research and evaluate technology in a fast-moving field
+- Ability to work independently
+- Ability to meet deadlines
+</div>
 <div class="job-inner">
 ### Software Developer  
 - C#
@@ -254,6 +265,16 @@ If you're looking for a challenging career with an established and growing compa
 - Cordova
 - iOS
 - Android  
+</div>
+<div class="benefits">
+### Some of the benefits of working with us:
+- Competitive salary depending upon work experiences
+- A private Aetna Health Insurance
+- 12 holidays per year
+- Annual trip (outing) with the team
+- Working with great colleagues in an international and modern work environment
+- Opportunities to learn the cutting edge of development technologies
+- Flexible office hours ( start early - leave early )
 </div>
 </div>
 </section>
