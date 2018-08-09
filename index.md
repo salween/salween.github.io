@@ -160,26 +160,19 @@ When I have free time I spend it doing **push-ups and sit-ups.**
 No work day is complete without **TASKS**  
 When I have free time I spend it **PLAYING GAMES**
 
-- ![Note](./assets/images/Note.png){: .animated}
-#### Note   
-##### Senior Developer
-No work day is complete without **some nice music.**  
-When I have free time I spend it **finding new songs.**
-
 - ![Phyo](./assets/images/Phyo.png){: .animated}  
 #### Phyo
 ##### Software Developer
 No work day is complete without **a cup of coffee.**  
 When I have free time I spend it **reading or watching football matches.**
 
-
-{: .photo02 .animated}
 - ![Koon](./assets/images/Koon.png){: .animated}
 #### Koon    
 ##### Software Developer
 No work day is complete without **some great food.**  
 When I have free time I spend it **working out and traveling.**
 
+{: .photo02 .animated}
 - ![Tae](./assets/images/Santi.png){: .animated}
 #### Tae    
 ##### Graphic designer
