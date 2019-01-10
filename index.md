@@ -211,7 +211,7 @@ When I have free time I spend it **on gaming, coding, and travelling.**
 
 - ![Maii](./assets/images/Maii.png){: .animated}
 #### Maii    
-##### Software Developer
+##### QA Engineer
 No work day is complete without  **searching.**
 When I have free time I spend it **playing music.**
 
