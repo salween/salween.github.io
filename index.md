@@ -209,7 +209,7 @@ When I have free time I spend it **grow cactus and listen to the music.**
 No work day is complete without **pushing commits.**  
 When I have free time I spend it **on gaming, coding, and travelling.**
 
-- ![Maii](./assets/images/Maii.jpg){: .animated}
+- ![Maii](./assets/images/Maii.png){: .animated}
 #### Maii    
 ##### Software Developer
 No work day is complete without  **searching.**
