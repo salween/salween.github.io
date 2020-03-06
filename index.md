@@ -142,12 +142,6 @@ Window Azure
 </div>
 
 {: .photo01 .animated}
-- ![Jean](./assets/images/Jean.png){:  .animated}
-#### Jean    
-##### Software Architect
-No work day is complete without **pushing or merging a pull request.**  
-When I have free time, I spend it on **_free/libre_ software [gnu.org](https://www.gnu.org/)**
-
 - ![Ton](./assets/images/Ton.png){: .animated}  
 #### Ton  
 ##### Senior Developer
@@ -172,13 +166,13 @@ When I have free time I spend it **reading or watching football matches.**
 No work day is complete without **some great food.**  
 When I have free time I spend it **working out and traveling.**
 
-{: .photo02 .animated}
 - ![Tae](./assets/images/Santi.png){: .animated}
 #### Tae    
 ##### Graphic designer
 No work day is complete without **amusement.**  
 When I have free time I spend it **listening to music.**
 
+{: .photo02 .animated}
 - ![Fai](./assets/images/Fai.png){: .animated}
 #### Fai    
 ##### Software Developer
@@ -208,12 +202,6 @@ When I have free time I spend it **grow cactus and listen to the music.**
 ##### Software Developer
 No work day is complete without **pushing commits.**  
 When I have free time I spend it **on gaming, coding, and travelling.**
-
-- ![Maii](./assets/images/Maii.png){: .animated}
-#### Maii    
-##### QA Engineer
-No work day is complete without  **searching.**
-When I have free time I spend it **playing music.**
 
 <div class="animated">
 ### The Suits
