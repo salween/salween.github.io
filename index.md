@@ -144,7 +144,7 @@ Window Azure
 {: .photo01 .animated}
 - ![Ton](./assets/images/Ton.png){: .animated}  
 #### Ton  
-##### Senior Developer
+##### Software Applications Architect
 No work day is complete without **a Scrum meeting.**  
 When I have free time I spend it doing **push-ups and sit-ups.**
 
