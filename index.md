@@ -218,13 +218,13 @@ When I have free time I spend it **playing with my three dogs.**
 ## Careers
 At Salween – our philosophy is to build careers – any company can provide a job – through trust, commitment to excellence and our belief in family first, Salween is where dreams become reality.
 <div class="tester">
-<p class="text-left">Salween Solutions is a fast-growing Software and App Development Bangkok company and Microsoft Gold Partner. We provide products and services for E&M Consulting, Inc., a National award-winning Publishing and Software/App company headquartered in the United States. Join Salween as a career-driven full-time Administrative Assistant.</p> 
+<p class="text-left"><span class="font-bold">Salween Solutions</span> is a fast-growing Software and App Development Bangkok company and Microsoft Gold Partner. We provide products and services for <span class="font-bold">E&M Consulting, Inc.,</span> a National award-winning Publishing and Software/App company headquartered in the United States. Join Salween as a career-driven full-time <span class="font-bold">Administrative Assistant.</span></p> 
 ## Administrative Assistant
 
 ### Qualifications:
 - Exceptional English verbal and written communication is required
 - Proficient in Microsoft Word, Excel, Outlook and Computer Operations
-- University Degree preferred (New graduates are encouraged to apply). 
+- University Degree preferred (New graduates are encouraged to apply)
 - Experience using database software 
 - Excellent attendance, organization and punctuality 
 
@@ -291,12 +291,12 @@ We are now opening a position for <span class="font-bold">React Native Mobile De
 Your main responsibility will be to work with the mobile developer team to design and develop custom business application for our clients.
 </p> 
 
-## React Native Mobile 
+## React Native Mobile Developer
 
 ### Basic Requirements:
 - Thai Nationality only
 - Bachelor’s degree in Computer Science Degree or related fields
-- Ability to work independently.
+- Ability to work independently
 - Ability to meet deadlines
 
 ### Technology Requirements:
@@ -329,13 +329,11 @@ Your main responsibility will be to work with the mobile developer team to desig
 <div class="job-inner">
 ### Frontend Developer   
 - ReactJS
-- Angular
 - Bootstrap, Less, Sass  
 </div>
 <div class="job-inner">
 ### Mobile Developer  
 - React Native
-- Cordova
 - iOS
 - Android  
 </div>
