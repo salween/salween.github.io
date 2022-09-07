@@ -578,7 +578,31 @@ footer {
 	left bottom,
 	color-stop(0, #4FDCFF),
 	color-stop(1, #26A8E0)
+  
 );
+
+.text-small {
+  font-size: 1em;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.font-normal {
+  font-weight: normal;
+}
+.text-left {
+  text-align: left;
+  margin-bottom: 5rem;
+}
+.email {
+  text-align: left;
+
+  a {
+    color: #fff;
+  }
+}
 background-image: -o-linear-gradient(bottom, #4FDCFF 0%, #26A8E0 100%);
 background-image: -moz-linear-gradient(bottom, #4FDCFF 0%, #26A8E0 100%);
 background-image: -webkit-linear-gradient(bottom, #4FDCFF 0%, #26A8E0 100%);
@@ -593,13 +617,12 @@ background-image: linear-gradient(to bottom, #4FDCFF 0%, #26A8E0 100%);
     margin: 0;
     padding-left: 20px;
     li {
-      margin-bottom: 20px;
+      margin-bottom: 10px;
       font-size: 1.2em;
     }
   }
   .tester {
     @include make-sm-column(12);
-    border-bottom: 1px solid #fff;
     padding: 15px 0;
     margin: 15px 0;
     border-top: 1px solid #fff;
@@ -622,7 +645,8 @@ background-image: linear-gradient(to bottom, #4FDCFF 0%, #26A8E0 100%);
     font-size: $font-size-h2;
   }
   h3 {
-    margin-bottom: 30px;
+    margin: 30px 0 20px;
+    font-weight: bold;
     font-size: $font-size-h3;
   }
 }
@@ -710,6 +734,7 @@ background-image: linear-gradient(to bottom, #4FDCFF 0%, #26A8E0 100%);
     }
   }
 }
+
 @-webkit-keyframes bounce {
     0%, 20%, 50%, 80%, 100% {-webkit-transform: translateY(0);}
     40% {transform: translateY(-10px);}

@@ -185,12 +185,6 @@ When I have free time I spend it **planting trees, reading books, and watching m
 No work day is complete without **some snacks.**  
 When I have free time I spend it **reading and watching YouTube channels.**
 
-- ![James](./assets/images/James.png){: .animated}
-#### James    
-##### Software Developer
-No work day is complete without **a bar of chocolate.**
-When I have free time I spend it **practicing my programming skills.**
-
 - ![Ying](./assets/images/Ying.png){: .animated}
 #### Ying    
 ##### Software Developer
@@ -221,19 +215,111 @@ When I have free time I spend it **playing with my three dogs.**
 </section>
 <section class="job" id="job">
 <div class="animated container">
-## Jobs
-If you're looking for a challenging career with an established and growing company, contact us
+## Careers
+At Salween – our philosophy is to build careers – any company can provide a job – through trust, commitment to excellence and our belief in family first, Salween is where dreams become reality.
 <div class="tester">
-### QA Engineer
--	Bachelor’s degree in Computer Science Degree or related fields
-- Minimum 3 year experiences as QA Engineer
-- Techniques used include integration testing, unit testing, monitoring and load testing, process automation, executable documentation, fitness functions, and deployment pipelines.
-- Proficiency in relevant technologies :  Cucumber tests (for C# and Javascript (web and mobile) backends), Ansible, TeamCity, K6.io, Prometheus, Wix Detox, and API Blueprint for specifying and mocking services
-- Team player: train and empower developers to rely on testing
-- Ability to research and evaluate technology in a fast-moving field
+<p class="text-left"><span class="font-bold">Salween Solutions</span> is a fast-growing Software and App Development Bangkok company and Microsoft Gold Partner. We provide products and services for <span class="font-bold">E&M Consulting, Inc.,</span> a National award-winning Publishing and Software/App company headquartered in the United States. Join Salween as a career-driven full-time <span class="font-bold">Administrative Assistant.</span></p> 
+## Administrative Assistant
+
+### Qualifications:
+- Exceptional English verbal and written communication is required
+- Proficient in Microsoft Word, Excel, Outlook and Computer Operations
+- University Degree preferred (New graduates are encouraged to apply)
+- Experience using database software 
+- Excellent attendance, organization and punctuality 
+
+### Job Responsibilities:
+- Database Entry and updating
+- Email Communication with clients in America
+- Research
+
+### Benefits:
+- FT position: Monday – Friday 10.00 am – 7.00 pm 1 hour lunch/dinner break
+- 1 hour lunch/dinner break 
+- Private Aetna Health Insurance
+- Paid Holidays
+- Paid Time Off (PTO)
+- Advancement opportunities
+- Company lunches and outings
+- 90 Day Review for performance and potential pay increase (avg 2,000-4,000)
+- 18,000 Baht per month + weekly incentive bonus (avg 6,000+)
+
+### Deadline of application:   <em>30 September 2022</em>
+<p class="email">Interested applicants are required to submit a full detailed of qualifications and experience with CV in English to <a href="mailto:Cherie.p1602@gmail.com">Cherie.p1602@gmail.com</a></p>
+<p class="text-small"><em>“Only short lists are requested to attend job interviews”</em></p>
+</div>
+
+<div class="tester">
+<p class="text-left"><span class="font-bold">Salween Solutions</span> is a fast paced rapidly-growing Software and App Development Bangkok company. Join the Microsoft Certified Gold Partner Development Team as a <span class="font-bold">Graphic Designer.</span>  We provide digital professional services for <span class="font-bold">E&M Consulting, Inc.,</span> an award-winning Publishing and Software/App company headquartered in the United States.</p> 
+
+## Graphic Designer
+
+### Qualifications:
+- Exceptional English reading, written and verbal communication is required
+- Proficient in Adobe InDesign, Photoshop and Illustrator or website design
+- Proficient in Microsoft Office Suite and Computer Operations
+- University Degree (New graduates are encouraged to apply)
+
+
+### Job Responsibilities:
+- Map creations, ad creation, website design, publication formatting
+- Digital publication layout formatting and manipulation, using InDesign and Excel
+- Creation of Maps, using Illustrator
+- Advertisement Design, using Photoshop
+
+
+### Benefits:
+- Monday – Friday 
+- Work with the 2nd largest award winning Not for Profit Publisher in the United States
+- Private Aetna Health Insurance
+- Paid Holidays
+- Paid Time Off (PTO)
+- Company lunches and outings
+- Advancement opportunities
+- 90 Day Review for performance and potential pay increase (avg 2,000-4,000)
+- 22,000 Baht per month salary
+
+
+### Deadline of application:   <em>30 September 2022</em>
+<p class="email">Interested applicants are required to submit a full detailed of qualifications and experience with CV in English to <a href="mailto:Cherie.p1602@gmail.com">Cherie.p1602@gmail.com</a></p>
+<p class="text-small"><em>“Only short lists are requested to attend job interviews”</em></p>
+</div>
+
+<div class="tester">
+<p class="text-left"><span class="font-bold">Salween Solutions</span> is a Gold Certified Microsoft Partner and one of Thailand’s cutting edge software development companies with clients all over the world. We are also a BOI promoted company located in central Bangkok where is easily accessed by the MRT subway train and BTS skytrain.<br><br>
+We are now opening a position for <span class="font-bold">React Native Mobile Developer</span> to offer you an opportunity to work with the experienced development team on challenging projects.  <br><br>
+Your main responsibility will be to work with the mobile developer team to design and develop custom business application for our clients.
+</p> 
+
+## React Native Mobile Developer
+
+### Basic Requirements:
+- Thai Nationality only
+- Bachelor’s degree in Computer Science Degree or related fields
 - Ability to work independently
 - Ability to meet deadlines
+
+### Technology Requirements:
+- Minimum 3 years of experience in programming
+- Experience with React Native or other ReactJS frameworks
+- Experience with REST API
+- Have a good background/ knowledge in HTML 5, CSS 3, JavaScript
+- Experience with styled-components, Jest, E2E testing, GraphQL, TypeScript, Monorepo is a plus
+
+### Some of the benefits of working with us:
+- Competitive salary depending upon work experience
+- Bupa Premium Health Insurance
+- 12 holidays per year
+- Annual trip (outing) with the team 
+- Working with great colleagues in an international and modern work environment
+- Opportunities to learn the cutting edge of development technologies
+- Flexible office hours 
+
+### Deadline of application:   <em>30 September 2022</em>
+<p class="email">To apply send your CV to <a href="mailto:jun@salweensolutions.com">jun@salweensolutions.com</a></p>
+<p class="text-small"><em>“Only short lists are requested to attend job interviews”</em></p>
 </div>
+
 <div class="job-inner">
 ### Software Developer  
 - C#
@@ -243,13 +329,11 @@ If you're looking for a challenging career with an established and growing compa
 <div class="job-inner">
 ### Frontend Developer   
 - ReactJS
-- Angular
 - Bootstrap, Less, Sass  
 </div>
 <div class="job-inner">
 ### Mobile Developer  
 - React Native
-- Cordova
 - iOS
 - Android  
 </div>
