@@ -235,7 +235,6 @@ At Salween – our philosophy is to build careers – any company can provide a 
 
 ### Benefits:
 - FT position: Monday – Friday 10.00 am – 7.00 pm 1 hour lunch/dinner break
-- 1 hour lunch/dinner break 
 - Private Aetna Health Insurance
 - Paid Holidays
 - Paid Time Off (PTO)
@@ -305,15 +304,6 @@ Your main responsibility will be to work with the mobile developer team to desig
 - Experience with REST API
 - Have a good background/ knowledge in HTML 5, CSS 3, JavaScript
 - Experience with styled-components, Jest, E2E testing, GraphQL, TypeScript, Monorepo is a plus
-
-### Some of the benefits of working with us:
-- Competitive salary depending upon work experience
-- Bupa Premium Health Insurance
-- 12 holidays per year
-- Annual trip (outing) with the team 
-- Working with great colleagues in an international and modern work environment
-- Opportunities to learn the cutting edge of development technologies
-- Flexible office hours 
 
 ### Deadline of application:   <em>30 September 2022</em>
 <p class="email">To apply send your CV to <a href="mailto:jun@salweensolutions.com">jun@salweensolutions.com</a></p>
