@@ -305,6 +305,15 @@ Your main responsibility will be to work with the mobile developer team to desig
 - Have a good background/ knowledge in HTML 5, CSS 3, JavaScript
 - Experience with styled-components, Jest, E2E testing, GraphQL, TypeScript, Monorepo is a plus
 
+### Some of the benefits of working with us:
+- Competitive salary depending upon work experience
+- Bupa Premium Health Insurance
+- 12 holidays per year
+- Annual trip (outing) with the team 
+- Working with great colleagues in an international and modern work environment
+- Opportunities to learn the cutting edge of development technologies
+- Flexible office hours 
+
 ### Deadline of application:   <em>30 September 2022</em>
 <p class="email">To apply send your CV to <a href="mailto:jun@salweensolutions.com">jun@salweensolutions.com</a></p>
 <p class="text-small"><em>“Only short lists are requested to attend job interviews”</em></p>
@@ -327,16 +336,7 @@ Your main responsibility will be to work with the mobile developer team to desig
 - iOS
 - Android  
 </div>
-<div class="benefits">
-### Some of the benefits of working with us:
-- Competitive salary depending upon work experiences
-- A private Aetna Health Insurance
-- 12 holidays per year
-- Annual trip (outing) with the team
-- Working with great colleagues in an international and modern work environment
-- Opportunities to learn the cutting edge of development technologies
-- Flexible office hours ( start early - leave early )
-</div>
+
 </div>
 </section>
 <div class="content-contact-us" id="CONTACT">
