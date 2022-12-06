@@ -191,12 +191,6 @@ When I have free time I spend it **reading and watching YouTube channels.**
 No work day is complete without **thinking.**
 When I have free time I spend it **grow cactus and listen to the music.**
 
-- ![Tul](./assets/images/Tul.png){: .animated}
-#### Tul    
-##### Software Developer
-No work day is complete without **pushing commits.**  
-When I have free time I spend it **on gaming, coding, and travelling.**
-
 <div class="animated">
 ### The Suits
 </div>
