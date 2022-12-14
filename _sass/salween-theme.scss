@@ -707,11 +707,28 @@ background-image: linear-gradient(to bottom, #4FDCFF 0%, #26A8E0 100%);
       left: 0 !important;
       width: 100%!important;
       height: 100% !important;
-      min-height: 210px !important;
+      min-height: 240px !important;
       display: block !important;
    }
+   .gm-style-iw-tc {
+    &:after {
+      background-color: #F4821F !important;
+    }
+  }
+
+  button.gm-ui-hover-effect {
+    opacity: 1;
+
+    &>span {
+      background-color: #fff!important;
+    }
+  }
+
   div {
-    div {
+    div.gm-style-iw-d {
+
+      overflow: hidden!important;
+
       div {
         div {
           div {
