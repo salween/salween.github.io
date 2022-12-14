@@ -142,54 +142,60 @@ Window Azure
 </div>
 
 {: .photo01 .animated}
-- ![Ton](./assets/images/Ton.png){: .animated}  
+- ![Ton](./assets/images/Ton-01.png){: .animated}  
 #### Ton  
 ##### Software Applications Architect
 No work day is complete without **a Scrum meeting.**  
 When I have free time I spend it doing **push-ups and sit-ups.**
 
-- ![Orc](./assets/images/Orc.png){: .animated}  
+- ![Orc](./assets/images/Orc-01.png){: .animated}  
 #### Orc  
 ##### Senior Developer
 No work day is complete without **TASKS**  
 When I have free time I spend it **PLAYING GAMES**
 
-- ![Phyo](./assets/images/Phyo.png){: .animated}  
+- ![Phyo](./assets/images/Phyo-01.png){: .animated}  
 #### Phyo
 ##### Software Developer
 No work day is complete without **a cup of coffee.**  
 When I have free time I spend it **reading or watching football matches.**
 
-- ![Koon](./assets/images/Koon.png){: .animated}
+- ![Koon](./assets/images/Koon-01.png){: .animated}
 #### Koon    
 ##### Software Developer
 No work day is complete without **some great food.**  
 When I have free time I spend it **working out and traveling.**
 
-- ![Tae](./assets/images/Santi.png){: .animated}
+- ![Tae](./assets/images/Santi-01.png){: .animated}
 #### Tae    
 ##### Graphic designer
 No work day is complete without **amusement.**  
 When I have free time I spend it **listening to music.**
 
 {: .photo02 .animated}
-- ![Fai](./assets/images/Fai.png){: .animated}
+- ![Fai](./assets/images/Fai-01.png){: .animated}
 #### Fai    
 ##### Software Developer
 No work day is complete without **learning.**  
 When I have free time I spend it **planting trees, reading books, and watching movies.**
 
-- ![Pek](./assets/images/Pek.png){: .animated}
+- ![Pek](./assets/images/Pek-01.png){: .animated}
 #### Pek    
 ##### Software Developer
 No work day is complete without **some snacks.**  
 When I have free time I spend it **reading and watching YouTube channels.**
 
-- ![Ying](./assets/images/Ying.png){: .animated}
+- ![Ying](./assets/images/Ying-01.png){: .animated}
 #### Ying    
 ##### Software Developer
 No work day is complete without **thinking.**
 When I have free time I spend it **grow cactus and listen to the music.**
+
+- ![Ying](./assets/images/Sai-01.png){: .animated}
+#### Sai Nyan Htay   
+##### Software Developer
+No work day is complete without **energetic music.**
+When I have free time I spend it **watching movies or chilling with games.**
 
 <div class="animated">
 ### The Suits
@@ -201,11 +207,11 @@ When I have free time I spend it **grow cactus and listen to the music.**
 ##### Managing Director
 No work day is complete without **podcasts and to-do lists.**  
 When I have free time I spend it **rebuilding my media center.**
-- ![Jun](./assets/images/Jun.png){: .animated}
+- ![Jun](./assets/images/Jun-01.png){: .animated}
 #### Jun    
 ##### Administration and HR Manager
-No work day is complete without **my favorite coffee AHa.**  
-When I have free time I spend it **playing with my three dogs.**
+No work day is complete without **a cup of ice Cappuccino.**
+When I have free time I spend it **with my dogs.**
 </section>
 <section class="job" id="job">
 <div class="animated container">
