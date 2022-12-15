@@ -192,7 +192,7 @@ No work day is complete without **thinking.**
 When I have free time I spend it **grow cactus and listen to the music.**
 
 - ![Ying](./assets/images/Sai-01.png){: .animated}
-#### Sai Nyan Htay   
+#### Sai
 ##### Software Developer
 No work day is complete without **energetic music.**
 When I have free time I spend it **watching movies or chilling with games.**
