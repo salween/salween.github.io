@@ -260,9 +260,6 @@ When I have free time I spend it **listening to music.**
 - ![Prae](./assets/images/Prae.png){: .animated}
 #### Prae
 
-- ![Pupae](./assets/images/Pupae.png){: .animated}
-#### Pupae
-
 - ![Toi](./assets/images/Toi.png){: .animated}
 #### Toi
 
