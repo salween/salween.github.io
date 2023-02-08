@@ -150,9 +150,9 @@ When I have free time I spend it doing **push-ups and sit-ups.**
 
 - ![Orc](./assets/images/Orc-01.png){: .animated}  
 #### Orc  
-##### Senior Developer
+##### Senior Software Developer
 No work day is complete without **TASKS**  
-When I have free time I spend it **PLAYING GAMES**
+When I have free time I spend it **PLAYING GAMES & PHOTO SHOOTING**
 
 - ![Phyo](./assets/images/Phyo-01.png){: .animated}  
 #### Phyo
@@ -166,18 +166,13 @@ When I have free time I spend it **reading or watching football matches.**
 No work day is complete without **some great food.**  
 When I have free time I spend it **working out and traveling.**
 
-- ![Tae](./assets/images/Santi-01.png){: .animated}
-#### Tae    
-##### Graphic designer
-No work day is complete without **amusement.**  
-When I have free time I spend it **listening to music.**
+- ![Sai](./assets/images/Sai-01.png){: .animated}
+#### Sai
+##### Software Developer
+No work day is complete without **energetic music.**
+When I have free time I spend it **watching movies or chilling with games.**
 
 {: .photo02 .animated}
-- ![Fai](./assets/images/Fai-01.png){: .animated}
-#### Fai    
-##### Software Developer
-No work day is complete without **learning.**  
-When I have free time I spend it **planting trees, reading books, and watching movies.**
 
 - ![Pek](./assets/images/Pek-01.png){: .animated}
 #### Pek    
@@ -191,11 +186,89 @@ When I have free time I spend it **reading and watching YouTube channels.**
 No work day is complete without **thinking.**
 When I have free time I spend it **grow cactus and listen to the music.**
 
-- ![Ying](./assets/images/Sai-01.png){: .animated}
-#### Sai
+- ![Fai](./assets/images/Fai-01.png){: .animated}
+#### Fai    
 ##### Software Developer
-No work day is complete without **energetic music.**
-When I have free time I spend it **watching movies or chilling with games.**
+No work day is complete without **learning.**  
+When I have free time I spend it **planting trees, reading books, and watching movies.**
+
+
+
+- ![Tae](./assets/images/Santi-01.png){: .animated}
+#### Tae    
+##### Graphic Designer
+No work day is complete without **amusement.**  
+When I have free time I spend it **listening to music.**
+
+- ![Ae](./assets/images/Ae.png){: .animated}
+#### Ae
+
+- ![Aim](./assets/images/Aim.png){: .animated}
+#### Aim
+
+- ![Amy](./assets/images/Amy.png){: .animated}
+#### Amy
+
+- ![Ann](./assets/images/Ann.png){: .animated}
+#### Ann
+
+- ![Aum](./assets/images/Aum.png){: .animated}
+#### Aum
+
+- ![Cartoon](./assets/images/Cartoon.png){: .animated}
+#### Cartoon
+
+- ![Cin](./assets/images/Cin.png){: .animated}
+#### Cin
+
+- ![Fahsai](./assets/images/Fahsai.png){: .animated}
+#### Fahsai
+
+- ![Jam](./assets/images/Jam.png){: .animated}
+#### Jam
+
+- ![Jin](./assets/images/Jin.png){: .animated}
+#### Jin
+
+- ![Job](./assets/images/Job.png){: .animated}
+#### Job
+
+- ![Kim](./assets/images/Kim.png){: .animated}
+#### Kim
+
+- ![Max](./assets/images/Max.png){: .animated}
+#### Max
+
+- ![May](./assets/images/May.png){: .animated}
+#### May
+
+- ![Muay](./assets/images/Muay.png){: .animated}
+#### Muay
+
+- ![Noey](./assets/images/Noey.png){: .animated}
+#### Noey
+
+- ![Nook](./assets/images/Nook.png){: .animated}
+#### Nook
+
+- ![Noom](./assets/images/Noom.png){: .animated}
+#### Noom
+
+- ![Pookie](./assets/images/Pookie.png){: .animated}
+#### Pookie
+
+- ![Prae](./assets/images/Prae.png){: .animated}
+#### Prae
+
+- ![Pupae](./assets/images/Pupae.png){: .animated}
+#### Prae
+
+- ![Toi](./assets/images/Toi.png){: .animated}
+#### Toi
+
+- ![Ying](./assets/images/Ying.png){: .animated}
+#### Ying
+
 
 <div class="animated">
 ### The Suits
@@ -212,6 +285,9 @@ When I have free time I spend it **rebuilding my media center.**
 ##### Administration and HR Manager
 No work day is complete without **a cup of ice Cappuccino.**
 When I have free time I spend it **with my dogs.**
+- ![Cherie](./assets/images/Cherie.png){: .animated}
+#### Cherie    
+
 </section>
 <section class="job" id="job">
 <div class="animated container">
