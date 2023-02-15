@@ -253,7 +253,7 @@ When I have free time I spend it **watching football, formula 1, youtube and mus
 #### Aim
 ##### Team member
 No work day is complete without **a cup of full - sweet coffee.**  
-When I have free time I spend it **watching some Tiktok video.**
+When I have free time I spend it **watching some Tiktok videos.**
 
 - ![Ann](./assets/images/Ann.png){: .animated}
 #### Ann
@@ -277,7 +277,7 @@ When I have free time I spend it **internet.**
 #### Cin
 ##### Team member
 No work day is complete without **coffee, headphone and friends.**  
-When I have free time I spend it **going on picnic at the park and watching a crime documentary.**
+When I have free time I spend it **going on picnic at the park.**
 
 - ![Fahsai](./assets/images/Fahsai.png){: .animated}
 #### Fahsai
@@ -324,25 +324,25 @@ When  I have free time I spend it **at gym lift weghts and cardio.**
 - ![Muay](./assets/images/Muay.png){: .animated}
 #### Muay
 ##### Team member
-No work day is complete without **energy and milos.**  
+No work day is complete without **energy.**  
 When I have free time I spend it **singing.**
 
 - ![Nava](./assets/images/Nava.png){: .animated}
 #### Nava
-##### Team Lead
+##### Team member
 No work day is complete without **plan.**  
 When I have free time I spen it **study financial and investment.**
 
 - ![Nene](./assets/images/Nene.png){: .animated}
 #### Nene
-##### Team Lead
+##### Team member
 No work day is complete without **dessert come with milk.**  
 When I have free time I spend it **enjoiying with Anime movie and pets.**
 
 
 - ![Nook](./assets/images/Nook.png){: .animated}
 #### Nook
-##### Team Lead
+##### Team member
 No work day is complete without **coffee.**  
 When I have free time I spend it **on shopping.**
 
