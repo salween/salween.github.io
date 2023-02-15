@@ -332,6 +332,11 @@ h1.navbar-header {
       li {
         top: 30px;
         @include make-md-column(4);
+
+        img {
+          margin: 0 auto 30px;
+        }
+
         &:first-child {
           top: 0;
         }
@@ -349,8 +354,7 @@ h1.navbar-header {
     float: left;
 }
 .list-team {
-    width: 100%;
-    float: none;
+    width: 50%;
 }
 @media (min-width: 992px) {
     .list-team {

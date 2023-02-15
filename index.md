@@ -137,7 +137,31 @@ Window Azure
 <section class="content-team" id="TEAM">
 {::options auto_ids="false" /}
 <div class="animated">
-## We are a Team of Developers & Suits
+## We are a Team of Suits & Developers & Business team
+</div>
+
+<div class="animated">
+### The Suits
+</div>
+
+{: .animated .theSuits}
+- ![Charles](./assets/images/Charles.png){: .animated}
+#### Charles    
+##### Managing Director
+No work day is complete without **podcasts and to-do lists.**  
+When I have free time I spend it **rebuilding my media center.**
+- ![Jun](./assets/images/Jun-01.png){: .animated}
+#### Jun    
+##### Administration and HR Manager
+No work day is complete without **a cup of ice Cappuccino.**
+When I have free time I spend it **with my dogs.**
+- ![Cherie](./assets/images/Cherie.png){: .animated}
+#### Cherie
+##### Executive Administrative Assistant    
+No work day is complete without **ice latte.**
+When I have free time I spend it **listen to music and exercise.**
+
+<div class="animated">
 ### The Developers
 </div>
 
@@ -172,8 +196,6 @@ When I have free time I spend it **working out and traveling.**
 No work day is complete without **energetic music.**
 When I have free time I spend it **watching movies or chilling with games.**
 
-{: .photo02 .animated}
-
 - ![Pek](./assets/images/Pek-01.png){: .animated}
 #### Pek    
 ##### Software Developer
@@ -193,98 +215,186 @@ No work day is complete without **learning.**
 When I have free time I spend it **planting trees, reading books, and watching movies.**
 
 
-
 - ![Tae](./assets/images/Santi-01.png){: .animated}
 #### Tae    
 ##### Graphic Designer
 No work day is complete without **amusement.**  
 When I have free time I spend it **listening to music.**
 
-- ![Ae](./assets/images/Ae.png){: .animated}
-#### Ae
+<div class="animated"> 
+### Business team
+</div>
 
-- ![Aim](./assets/images/Aim.png){: .animated}
-#### Aim
+{: .photo02 .animated}
+- ![Ling](./assets/images/Ling.png){: .animated}
+#### Ling
+##### Team Lead
+No work day is complete without **our wonderfull team and americano.** 
+When I have free time I spend it **on novel.**
 
-- ![Amy](./assets/images/Amy.png){: .animated}
-#### Amy
 
-- ![Ann](./assets/images/Ann.png){: .animated}
-#### Ann
-
-- ![Aum](./assets/images/Aum.png){: .animated}
-#### Aum
-
-- ![Cartoon](./assets/images/Cartoon.png){: .animated}
-#### Cartoon
-
-- ![Cin](./assets/images/Cin.png){: .animated}
-#### Cin
-
-- ![Fahsai](./assets/images/Fahsai.png){: .animated}
-#### Fahsai
-
-- ![Jam](./assets/images/Jam.png){: .animated}
-#### Jam
-
-- ![Jin](./assets/images/Jin.png){: .animated}
-#### Jin
-
-- ![Job](./assets/images/Job.png){: .animated}
-#### Job
-
-- ![Kim](./assets/images/Kim.png){: .animated}
-#### Kim
-
-- ![Max](./assets/images/Max.png){: .animated}
-#### Max
-
-- ![May](./assets/images/May.png){: .animated}
-#### May
-
-- ![Muay](./assets/images/Muay.png){: .animated}
-#### Muay
 
 - ![Noey](./assets/images/Noey.png){: .animated}
 #### Noey
-
-- ![Nook](./assets/images/Nook.png){: .animated}
-#### Nook
+##### Team Lead
+No work day is complete without **coffee.**
+When I have free time I spend it **game show, travel vlong and VDO on youtube.**
 
 - ![Noom](./assets/images/Noom.png){: .animated}
 #### Noom
+##### Team Lead
+No work day is complete without **ice latte.**
+When I have free time I spend it **on novel.** 
+- ![Ae](./assets/images/Ae.png){: .animated}
+#### Ae
+##### Team member
+No work day is complete without **my notebook and a pen ( individually ) and my co - worker ( as a team )**
+When I have free time I spend it **watching football, formula 1, youtube and musics**
+
+- ![Aim](./assets/images/Aim.png){: .animated}
+#### Aim
+##### Team member
+No work day is complete without **a cup of full - sweet coffee.**
+When I have free time I spend it **watching some Tiktok video.**
+
+- ![Ann](./assets/images/Ann.png){: .animated}
+#### Ann
+##### Team member
+No work day is complete without **cup of cocoa.**
+When I have free time I spend it **museums tour.**
+
+- ![Aum](./assets/images/Aum.png){: .animated}
+#### Aum
+##### Team member
+No work day is complete without **Americano.**
+When I have free time I spend it **on Netflix.**
+
+- ![Cartoon](./assets/images/Cartoon.png){: .animated}
+#### Cartoon
+##### Team member
+No work day is complete without **food and snacks.**
+When I have free time I spend it **internet.**
+
+- ![Cin](./assets/images/Cin.png){: .animated}
+#### Cin
+##### Team member
+No work day is complete without **coffee, headphone and friends.**
+When I have free time I spend it **going on picnic at the park and watching a crime documentary.**
+
+- ![Fahsai](./assets/images/Fahsai.png){: .animated}
+#### Fahsai
+##### Team member
+No work day is complete without **sweets.**
+When I have free time I spend it **reading books.** 
+
+- ![Jam](./assets/images/Jam.png){: .animated}
+#### Jam
+##### Team member
+No work day is complete without **food.**
+When I have free time I spend it **listening to the music.**
+
+- ![Jin](./assets/images/Jin.png){: .animated}
+#### Jin
+##### Team member
+No work day is complete without **water.**
+When I have free time I spend it **chitchat about NCT 127 Korean band.**
+
+- ![Job](./assets/images/Job.png){: .animated}
+#### Job
+##### Team member
+No work day is complete without **chocolate.**
+When I have free time I spend it **reading cartoon books.**
+
+- ![Kim](./assets/images/Kim.png){: .animated}
+#### Kim
+##### Team member
+No work day is complete without **food.**
+When I have free time I spend it **Netflix.**
+
+- ![Meen](./assets/images/Meen.png){: .animated}
+#### Meen
+##### Team member
+No work day is complete without **iced cocoa.**
+When I have free time I spend it **watching movies and reading fiction.**
+
+- ![Mon](./assets/images/Mon.png){: .animated}
+#### Mon
+##### Team member
+No work day is complete without **my favorate cup of coffee.**
+When  I have free time I spend it **at gym lift weghts and cardio.**
+
+- ![Muay](./assets/images/Muay.png){: .animated}
+#### Muay
+##### Team member
+No work day is complete without **energy and milos.**
+When I have free time I spend it **singing.**
+
+- ![Nava](./assets/images/Nava.png){: .animated}
+#### Nava
+##### Team Lead
+No work day is complete without **plan.**
+When I have free time I spen it **study financial and investment.**
+
+- ![Nene](./assets/images/Nene.png){: .animated}
+#### Nene
+##### Team Lead
+No work day is complete without **dessert come with milk.**
+When I have free time I spend it **enjoiying with Anime movie and pets.**
+
+
+- ![Nook](./assets/images/Nook.png){: .animated}
+#### Nook
+##### Team Lead
+No work day is complete without **coffee.**
+When I have free time I spend it **on shopping.**
 
 - ![Pookie](./assets/images/Pookie.png){: .animated}
 #### Pookie
+##### Team member
+No work day is complete without **tea.**
+When I have free time I spend it **music and watching cartoons.**
 
 - ![Prae](./assets/images/Prae.png){: .animated}
 #### Prae
+##### Team member
+No work day is complete without **coffee and music.**
+When I have free time I spend it **listening the music.**
 
 - ![Toi](./assets/images/Toi.png){: .animated}
 #### Toi
+##### Team member
+No work day is complete without **music.**
+When I have free time I spend it **sleeping.**
+
+- ![Wes](./assets/images/Wes.png){: .animated}
+#### Wes
+##### Team member
+No work day is complete without **coffee.**
+When  I have free time I spend it **excercise.**
 
 - ![Ying](./assets/images/Ying.png){: .animated}
 #### Ying
+##### Team member
+No work day is complete without **herbal inhaler.**
+When I have free time I spend it **eating.**
 
+- ![Amy](./assets/images/Amy.png){: .animated}
+#### Amy
+##### Graphic Designer
+No work day is complete without **STRONG coffe and music.**
+When I have free time I spend it **with watch movies and hiking in some park or mountains, and sometimes exploring indiffent places.**
 
-<div class="animated">
-### The Suits
-</div>
+- ![Max](./assets/images/Max.png){: .animated}
+#### Max
+##### Graphic Designer
+No work day is complete without **journey on my though.**
+When I have free time I spend it **with my computer for news and movies or series.**
 
-{: .animated .theSuits}
-- ![Charles](./assets/images/Charles.png){: .animated}
-#### Charles    
-##### Managing Director
-No work day is complete without **podcasts and to-do lists.**  
-When I have free time I spend it **rebuilding my media center.**
-- ![Jun](./assets/images/Jun-01.png){: .animated}
-#### Jun    
-##### Administration and HR Manager
-No work day is complete without **a cup of ice Cappuccino.**
-When I have free time I spend it **with my dogs.**
-- ![Cherie](./assets/images/Cherie.png){: .animated}
-#### Cherie    
-
+- ![May](./assets/images/May.png){: .animated}
+#### May
+##### Graphic Designer
+No work day is complete without **iced chocolate ( Light sweet ).**
+When I have free time I spend it **listening to music.**
 </section>
 <section class="job" id="job">
 <div class="animated container">
