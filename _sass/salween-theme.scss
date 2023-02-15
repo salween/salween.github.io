@@ -795,11 +795,14 @@ background-image: linear-gradient(to bottom, #4FDCFF 0%, #26A8E0 100%);
         &:hover {
           h5 {
             display: inline-block;
-            top: 15%;
-            font-size: 1.5rem;
+            top: 12%;
+            font-size: 1.2rem;
           }
           p {
-            font-size: 1.2rem;
+            font-size: 1rem;
+            top: 60%;
+            margin-top: -50px;
+            line-height: 1.4;
           }
         }
       }
