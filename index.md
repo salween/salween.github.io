@@ -339,13 +339,6 @@ When I have free time I spen it **study financial and investment.**
 No work day is complete without **dessert come with milk.**  
 When I have free time I spend it **enjoiying with Anime movie and pets.**
 
-
-- ![Nook](./assets/images/Nook.png){: .animated}
-#### Nook
-##### Team member
-No work day is complete without **coffee.**  
-When I have free time I spend it **on shopping.**
-
 - ![Pookie](./assets/images/Pookie.png){: .animated}
 #### Pookie
 ##### Team member
@@ -394,6 +387,7 @@ When I have free time I spend it **with my computer for news and movies or serie
 No work day is complete without **iced chocolate ( Light sweet ).**  
 When I have free time I spend it **listening to music.**
 </section>
+<!--
 <section class="job" id="job">
 <div class="animated container">
 ## Careers
@@ -520,6 +514,7 @@ Your main responsibility will be to work with the mobile developer team to desig
 
 </div>
 </section>
+--> 
 <div class="content-contact-us" id="CONTACT">
 <div id="google-map">
 </div>
