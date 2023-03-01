@@ -137,7 +137,7 @@ Window Azure
 <section class="content-team" id="TEAM">
 {::options auto_ids="false" /}
 <div class="animated">
-## We are a Team of Suits & Developers & Business team
+## We are the teams of the Suits, the Developers, and the Business.
 </div>
 
 <div class="animated">
