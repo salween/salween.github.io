@@ -129,9 +129,16 @@ Window Azure
 <section class="awards">
 ## Awards
 <div class="awards-inner container">
+<div class="mb-4">
 - ![Award](./assets/images/Logo01.png){: .img-responsive .img-rounded}
 - ![Award](./assets/images/Logo03.png){: .img-responsive .img-rounded}
 - ![Award](./assets/images/Logo02.png){: .img-responsive .img-rounded}
+</div>
+<div class="new-awards">
+- ![Award](./assets/images/2018_Gold Site Bug.png){: .img-responsive .img-rounded}
+- ![Award](./assets/images/apex2020-logo-487x506-1.webp){: .img-responsive .img-rounded}
+- ![Award](./assets/images/nahb-logo-color.png){: .img-responsive .img-rounded}
+</div>
 </div>
 </section>
 <section class="content-team" id="TEAM">

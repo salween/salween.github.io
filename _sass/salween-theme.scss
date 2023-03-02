@@ -14,7 +14,7 @@ body {
 }
 .header-area {
   height: 100vh;
-  background: url("../images/BG-01.png") fixed left top no-repeat;
+  background: url("../images/BG-01.png") fixed center top no-repeat;
   background-size: cover;
   position: relative;
   .navbar.navbar-default {
@@ -34,13 +34,16 @@ body {
   }
   .header-title {
     font-size: 6vw;
-    color: $base-color-white;
+    color: $base-color-orange;
     position: absolute;
     top: 50%;
     left: 50%;
     margin: 0 -50% 0 0;
     text-align: center;
     transform: translate(-50%, -50%);
+    text-shadow: 0 0 3px #69696b;
+    -moz-text-shadow: 0 0 3px #69696b;
+    -webkit-text-shadow: 0 0 3px #69696b;
   }
   .header-button {
     background: transparent;
@@ -213,7 +216,7 @@ h1.navbar-header {
     padding: 50px 0 50px;
     color: $base-color-white;
     text-align: center;
-    background: #1988BD url("../images/BG-3.png") fixed no-repeat left top;
+    background: #1988BD url("../images/BG-3.png") fixed no-repeat center top;
     background-size: cover;
     position: relative;
     .fa {
@@ -339,6 +342,23 @@ h1.navbar-header {
 
         &:first-child {
           top: 0;
+        }
+      }
+    }
+  }
+
+  .new-awards {
+    ul {
+      
+      li {
+        top: 30px;
+        
+        &:first-child {
+          top: 40px;
+        }
+
+        &:last-child {
+          top: 90px;
         }
       }
     }
@@ -786,6 +806,27 @@ background-image: linear-gradient(to bottom, #4FDCFF 0%, #26A8E0 100%);
       }
     }
   }
+  .header-area {
+    background: url(../images/BG-01.png) center top no-repeat;
+    margin-bottom: 50px;
+    background-size: cover;
+  }
+  .content-services {
+    .technologies-wrapper {
+      padding: 50px 0 50px;
+      color: $base-color-white;
+      text-align: center;
+      background: #1988BD url("../images/BG-3.png") no-repeat center top;
+      background-size: cover;
+      position: relative;
+    }
+  }
+
+  .based-area {
+    background: url(../images/BG-4.png) center top no-repeat;
+    background-size: cover;
+    position: relative;
+}
 }
 
 @media (max-width: 425px) {
