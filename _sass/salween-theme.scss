@@ -14,7 +14,7 @@ body {
 }
 .header-area {
   height: 100vh;
-  background: url("../images/BG-01.png") fixed center top no-repeat;
+  background: url("../images/BG-01.png") fixed center center no-repeat;
   background-size: cover;
   position: relative;
   .navbar.navbar-default {
@@ -216,7 +216,7 @@ h1.navbar-header {
     padding: 50px 0 50px;
     color: $base-color-white;
     text-align: center;
-    background: #1988BD url("../images/BG-3.png") fixed no-repeat center top;
+    background: #1988BD url("../images/BG-3.png") fixed no-repeat center center;
     background-size: cover;
     position: relative;
     .fa {
@@ -807,7 +807,7 @@ background-image: linear-gradient(to bottom, #4FDCFF 0%, #26A8E0 100%);
     }
   }
   .header-area {
-    background: url(../images/BG-01.png) center top no-repeat;
+    background: url(../images/BG-01.png) center center no-repeat;
     margin-bottom: 50px;
     background-size: cover;
   }
@@ -816,14 +816,14 @@ background-image: linear-gradient(to bottom, #4FDCFF 0%, #26A8E0 100%);
       padding: 50px 0 50px;
       color: $base-color-white;
       text-align: center;
-      background: #1988BD url("../images/BG-3.png") no-repeat center top;
+      background: #1988BD url("../images/BG-3.png") no-repeat center center;
       background-size: cover;
       position: relative;
     }
   }
 
   .based-area {
-    background: url(../images/BG-4.png) center top no-repeat;
+    background: url(../images/BG-4.png) center center no-repeat;
     background-size: cover;
     position: relative;
 }
