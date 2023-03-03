@@ -805,6 +805,13 @@ background-image: linear-gradient(to bottom, #4FDCFF 0%, #26A8E0 100%);
     margin-bottom: 50px;
     background-size: auto;
   }
+  @media (max-width: 820px) {
+    .header-area {
+      background: url(../images/BG-01.png) center bottom no-repeat;
+      margin-bottom: 50px;
+      background-size: auto;
+    }
+    
   
 }
 @media (max-width: 768px) {
