@@ -19,7 +19,7 @@ body {
   position: relative;
   .navbar.navbar-default {
     background: rgba(0, 0, 0, 0.5);
-    padding: 30px 0;
+    padding: 15px 0;
     a {
       background: transparent;
       color: $base-color-white;
@@ -33,17 +33,17 @@ body {
     }
   }
   .header-title {
+    color: $base-color-white;
     font-size: 6vw;
-    color: $base-color-orange;
     position: absolute;
     top: 50%;
     left: 50%;
     margin: 0 -50% 0 0;
     text-align: center;
     transform: translate(-50%, -50%);
-    text-shadow: 0 0 3px #69696b;
-    -moz-text-shadow: 0 0 3px #69696b;
-    -webkit-text-shadow: 0 0 3px #69696b;
+    text-shadow: 0 0 7px #000;
+    -moz-text-shadow: 0 0 7px #000;
+    -webkit-text-shadow: 0 0 7px #000;
   }
   .header-button {
     background: transparent;
@@ -418,7 +418,7 @@ h1.navbar-header {
     max-width: 100%;
     height: 100%;
     color: $base-color-white;
-    padding: 15px;
+    padding: 5px 10px;
     transition: .5s;
     z-index: 2;
     text-indent: 0;
@@ -478,6 +478,7 @@ h1.navbar-header {
           margin: 0;
           display: inline-block;
           background: rgba(0, 0, 0, 0.7);
+          font-size: 1.5rem;
         }
         h5 {
           @extend .text-fade-in;
@@ -776,6 +777,10 @@ background-image: linear-gradient(to bottom, #4FDCFF 0%, #26A8E0 100%);
   }
 }
 
+.navbar-toggle {
+  margin: 0;
+}
+
 @-webkit-keyframes bounce {
     0%, 20%, 50%, 80%, 100% {-webkit-transform: translateY(0);}
     40% {transform: translateY(-10px);}
@@ -803,7 +808,7 @@ background-image: linear-gradient(to bottom, #4FDCFF 0%, #26A8E0 100%);
   .header-area {
     background: url(../images/BG-01.png) center center no-repeat;
     margin-bottom: 50px;
-    background-size: 200% auto;
+    background-size: 100% auto;
   }
     
   
@@ -812,21 +817,21 @@ background-image: linear-gradient(to bottom, #4FDCFF 0%, #26A8E0 100%);
   h1.navbar-header {
     .salween-logo {
       img {
-        width: 200px;
+        width: 150px;
       }
     }
   }
   .header-area {
     background: url(../images/BG-01.png) center center no-repeat;
-    margin-bottom: 50px;
-    background-size: cover;
+    background-size: 100% contain;
+    height: 100vh;
   }
   .content-services {
     .technologies-wrapper {
       padding: 50px 0 50px;
       color: $base-color-white;
       text-align: center;
-      background: #1988BD url("../images/BG-3.png") no-repeat center center;
+      background: #1988BD url("../images/BG-3.png") no-repeat;
       background-size: cover;
       position: relative;
     }
@@ -840,6 +845,21 @@ background-image: linear-gradient(to bottom, #4FDCFF 0%, #26A8E0 100%);
 }
 
 @media (max-width: 425px) {
+  .header-area {
+    background: url(../images/BG-01.png) center center no-repeat;
+    background-size: 100%;
+    height: 100%;
+    width: 100%;
+    position: relative;
+
+    .header-title {
+      position: static;
+      margin: 0;
+      padding: 50% 0;
+      transform: translate(0, 0);
+    }
+  }
+
   .content-team {
     ul {
       li {
@@ -851,7 +871,7 @@ background-image: linear-gradient(to bottom, #4FDCFF 0%, #26A8E0 100%);
           }
           p {
             font-size: 1rem;
-            top: 60%;
+            top: 55%;
             margin-top: -50px;
             line-height: 1.4;
           }
