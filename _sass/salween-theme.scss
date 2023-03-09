@@ -698,10 +698,10 @@ background-image: linear-gradient(to bottom, #4FDCFF 0%, #26A8E0 100%);
         background-size: 20px 20px;
         padding-left: 25px;
         margin: 0 0 10px;
-        font-size: 20px;
+        font-size: 1.8rem;
       }
       .address {
-        font-size: 16px;
+        font-size: 1.5rem;
         line-height: 1.5;
       }
       .link {
@@ -851,6 +851,23 @@ background-image: linear-gradient(to bottom, #4FDCFF 0%, #26A8E0 100%);
     height: 100%;
     width: 100%;
     position: relative;
+    margin-bottom: 0;
+
+    .navbar.navbar-default {
+      padding: 5px 0;
+      margin-bottom: 0;
+    }
+
+    h1.navbar-header {
+      margin: 0;
+      position: relative;
+      top: -10px;
+    }
+
+    .navbar-toggle {
+      top: 8px;
+      z-index: 999;
+    }
 
     .header-title {
       position: static;
