@@ -239,12 +239,6 @@ When I have free time I spend it **listening to music.**
 No work day is complete without **our wonderfull team and americano.**  
 When I have free time I spend it **on novel.**
 
-- ![Noey](./assets/images/Noey.png){: .animated}
-#### Noey
-##### Team Lead
-No work day is complete without **coffee.**  
-When I have free time I spend it **game show, travel vlong and VDO on youtube.**
-
 - ![Noom](./assets/images/Noom.png){: .animated}
 #### Noom
 ##### Team Lead
