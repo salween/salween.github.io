@@ -274,12 +274,6 @@ When I have free time I spend it **on Netflix.**
 No work day is complete without **food and snacks.**  
 When I have free time I spend it **internet.**
 
-- ![Cin](./assets/images/Cin.png){: .animated}
-#### Cin
-##### Team member
-No work day is complete without **coffee, headphone and friends.**  
-When I have free time I spend it **going on picnic at the park.**
-
 - ![Fahsai](./assets/images/Fahsai.png){: .animated}
 #### Fahsai
 ##### Team member
