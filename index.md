@@ -310,12 +310,6 @@ When I have free time I spend it **Netflix.**
 No work day is complete without **iced cocoa.**  
 When I have free time I spend it **watching movies and reading fiction.**
 
-- ![Mon](./assets/images/Mon.png){: .animated}
-#### Mon
-##### Team member
-No work day is complete without **my favorate cup of coffee.**  
-When  I have free time I spend it **at gym lift weghts and cardio.**
-
 - ![Muay](./assets/images/Muay.png){: .animated}
 #### Muay
 ##### Team member
