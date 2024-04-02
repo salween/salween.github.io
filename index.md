@@ -281,12 +281,6 @@ When I have free time I spend it **reading books.**
 No work day is complete without **food.**  
 When I have free time I spend it **listening to the music.**
 
-- ![Jin](./assets/images/Jin.png){: .animated}
-#### Jin
-##### Team member
-No work day is complete without **water.**  
-When I have free time I spend it **chitchat about NCT 127 Korean band.**
-
 - ![Job](./assets/images/Job.png){: .animated}
 #### Job
 ##### Team member
