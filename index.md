@@ -341,12 +341,6 @@ When I have free time I spend it **sleeping.**
 No work day is complete without **coffee.**  
 When  I have free time I spend it **excercise.**
 
-- ![Ying](./assets/images/Ying.png){: .animated}
-#### Ying
-##### Team member
-No work day is complete without **herbal inhaler.**  
-When I have free time I spend it **eating.**
-
 - ![Amy](./assets/images/Amy.png){: .animated}
 #### Amy
 ##### Graphic Designer
