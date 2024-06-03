@@ -335,12 +335,6 @@ When I have free time I spend it **listening the music.**
 No work day is complete without **music.**  
 When I have free time I spend it **sleeping.**
 
-- ![Wes](./assets/images/Wes.png){: .animated}
-#### Wes
-##### Team member
-No work day is complete without **coffee.**  
-When  I have free time I spend it **excercise.**
-
 - ![Amy](./assets/images/Amy.png){: .animated}
 #### Amy
 ##### Graphic Designer
