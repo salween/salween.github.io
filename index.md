@@ -164,7 +164,7 @@ No work day is complete without **a cup of ice Cappuccino.**
 When I have free time I spend it **with my dogs.**
 - ![Cherie](./assets/images/Cherie.png){: .animated}
 #### Cherie    
-##### Executive Administrative Assistant
+##### Executive Administrative Assistant 
 No work day is complete without **ice latte.**  
 When I have free time I spend it **listen to music and exercise.**
 
