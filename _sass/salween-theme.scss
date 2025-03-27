@@ -132,8 +132,10 @@ h1.navbar-header {
       width: 100%;
     }
     .company-text {
-      @include make-md-column(4);
-      padding: 12% 0 0;
+      // @include make-md-column(4);
+      // padding: 12% 0 0;
+      @include make-md-column(12);
+      padding: 5% 0;
       text-align: center;
       h2 {
         color: $base-color-orange;

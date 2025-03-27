@@ -5,9 +5,9 @@ layout: default
 {::options parse_block_html="true" /}
 <section class="content-services" id="SERVICES">
 <div class="clearfix company-wrapper">
-<div class="company-images animated">
+<!-- <div class="company-images animated">
 ![SALWEEN SOLUTIONS](./assets/images/pic-01.png)
-</div>
+</div> -->
 <div class="company-text animated">
 <div class="text-salween">
 ## SALWEEN SOLUTIONS
