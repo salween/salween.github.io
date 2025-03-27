@@ -364,8 +364,8 @@ When I have free time I spend it **listening to music.**
 No work day is complete without **amusement.**  
 When I have free time I spend it **listening to music.**
 
-- ![Te](./assets/images/Te.png){: .animated}
-#### Te
+- ![Ta](./assets/images/Te.png){: .animated}
+#### Ta
 ##### Graphic Designer
 No work day is complete without **amusement.**  
 When I have free time I spend it **listening to music.**
