@@ -160,13 +160,6 @@ When I have free time I spend it **rebuilding my media center.**
 - ![Jun](./assets/images/Jun-01.png){: .animated}
 #### Jun    
 ##### Administration and HR Manager
-No work day is complete without **a cup of ice Cappuccino.**  
-When I have free time I spend it **with my dogs.**
-- ![Cherie](./assets/images/Cherie.png){: .animated} 
-#### Cherie    
-##### Executive Administrative Assistant 
-No work day is complete without **ice latte.**  
-When I have free time I spend it **listen to music and exercise.**
 
 <div class="animated">
 ### The Developers
@@ -197,7 +190,7 @@ When I have free time I spend it **reading or watching football matches.**
 No work day is complete without **some great food.**  
 When I have free time I spend it **working out and traveling.**
 
-- ![Sai](./assets/images/Sai-01.png){: .animated}
+- ![Sai](./assets/images/Sai.png){: .animated}
 #### Sai
 ##### Software Developer
 No work day is complete without **energetic music.**  
@@ -334,6 +327,12 @@ When I have free time I spend it **music and watching cartoons.**
 No work day is complete without **coffee and music.**  
 When I have free time I spend it **listening the music.**
 
+- ![Toey](./assets/images/Toey.png){: .animated}
+#### Toey
+##### Team member
+No work day is complete without **amusement.**  
+When I have free time I spend it **listening to music.**
+
 - ![Amy](./assets/images/Amy.png){: .animated}
 #### Amy
 ##### Graphic Designer
@@ -350,6 +349,31 @@ When I have free time I spend it **with my computer for news and movies or serie
 #### May
 ##### Graphic Designer
 No work day is complete without **iced chocolate ( Light sweet ).**  
+When I have free time I spend it **listening to music.**
+
+- ![Mint](./assets/images/Mint.png){: .animated}
+#### Mint
+##### Graphic Designer
+No work day is complete without **amusement.**  
+When I have free time I spend it **listening to music.**
+
+
+- ![Pure](./assets/images/Pure.png){: .animated}
+#### Pure
+##### Graphic Designer
+No work day is complete without **amusement.**  
+When I have free time I spend it **listening to music.**
+
+- ![Te](./assets/images/Te.png){: .animated}
+#### Te
+##### Graphic Designer
+No work day is complete without **amusement.**  
+When I have free time I spend it **listening to music.**
+
+- ![Wa](./assets/images/Wa.png){: .animated}
+#### Wa
+##### Graphic Designer
+No work day is complete without **amusement.**  
 When I have free time I spend it **listening to music.**
 </section>
 <!--
