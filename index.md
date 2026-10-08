@@ -327,12 +327,6 @@ When I have free time I spend it **music and watching cartoons.**
 No work day is complete without **coffee and music.**  
 When I have free time I spend it **listening the music.**
 
-- ![Toey](./assets/images/Toey.png){: .animated}
-#### Toey
-##### Team member
-No work day is complete without **amusement.**  
-When I have free time I spend it **listening to music.**
-
 - ![Amy](./assets/images/Amy.png){: .animated}
 #### Amy
 ##### Graphic Designer
