@@ -21,7 +21,7 @@ fifteen years.
 web, mobile and desktop applications using a range of technologies.
 </div>
 <div class="bounce-arrow">
-<a href="https://salweensolutions.com/#Technologies" class="scroll">
+<a href="https://www.salweensolutions.com/#Technologies" class="scroll">
 <i class="fa glyphicon glyphicon-menu-down"></i>
 <i class="fa glyphicon glyphicon-menu-down"></i>
 </a>
@@ -96,7 +96,7 @@ Window Azure
 </div>
 </div>
 <div class="bounce-arrow">
-<a href="https://salweensolutions.com/#TEAM" class="scroll">
+<a href="https://www.salweensolutions.com/#TEAM" class="scroll">
 <i class="fa glyphicon glyphicon-menu-down"></i>
 <i class="fa glyphicon glyphicon-menu-down"></i>
 </a>
@@ -111,11 +111,11 @@ Window Azure
 ### One of Thailand's cutting edge software development companies
 {: .animated }
 <div class="animated based-area-link">
-- [Test Driven Development](https://salweensolutions.com "Test Driven Development")    
-- [Agile Methodologies](https://salweensolutions.com "Agile Methodologies")    
-- [Continuous Integration](https://salweensolutions.com "Continuous Integration")   
-- [End to end testing](https://salweensolutions.com "End to end testing")  
-- {: .ms-gold}[Microsoft Gold Partners](https://salweensolutions.com "Microsoft Gold Partners")
+- [Test Driven Development](https://www.salweensolutions.com "Test Driven Development")    
+- [Agile Methodologies](https://www.salweensolutions.com "Agile Methodologies")    
+- [Continuous Integration](https://www.salweensolutions.com "Continuous Integration")   
+- [End to end testing](https://www.salweensolutions.com "End to end testing")  
+- {: .ms-gold}[Microsoft Gold Partners](https://www.salweensolutions.com "Microsoft Gold Partners")
 </div>
 <div>
 ## We have generated award-winning software products since 2006.

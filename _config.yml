@@ -3,5 +3,7 @@ description: GitHub Pages site for Salween Solutions.
 show_downloads: false
 google_analytics:
 repository: salween/salween.github.io
+url: "https://www.salweensolutions.com"
+baseurl: ""
 sass:
   style: compressed
